@@ -1,0 +1,83 @@
+{
+    "page-target": "",
+    "page-title": "",
+    "url-list-item": "https:\/\/your-wordpress\/wp-json\/wc\/v3\/products\/",
+    "url-single-item": "https:\/\/your-wordpress\/wp-json\/wc\/v3\/products\/{id}",
+    "var-list-item": "",
+    "var-single-item": "",
+    "template-list-item": "card",
+    "template-single-item": "card",
+    "auth-type": "basic",
+    "auth-uname": "ck_a6850882fd4622c59fe27348d6a60d0078ea86a7",
+    "auth-pwd": "cs_71814b3e1ff999e86e0f62ae112e097aeeac2166",
+    "items-1st-load": 20,
+    "per-page": 20,
+    "date-modified": 1585550661,
+    "page-header-color": "primary",
+    "page-content-background": "assets\/images\/background\/bg-01.png",
+    "enable-bookmark": false,
+    "page-title-for-bookmark-page": "Bookmarks",
+    "variable-bookmark-title": "",
+    "variable-bookmark-subtitle": "",
+    "label-for-please-wait": "Please wait...",
+    "label-for-ok": "Okey",
+    "label-for-no-item": "No item",
+    "infinite-scroll": true,
+    "label-for-detail": "Detail",
+    "label-for-delete": "Delete",
+    "label-for-clean-up": "Clean Up",
+    "vars": [
+        {
+            "var": "id",
+            "type": "id",
+            "label": "",
+            "list": false,
+            "detail": false
+        },
+        {
+            "var": "name",
+            "type": "card-header-title",
+            "label": "",
+            "list": true,
+            "detail": true
+        },
+        {
+            "var": "price",
+            "type": "card-header-subtitle-currency",
+            "label": "",
+            "list": false,
+            "detail": true
+        },
+        {
+            "var": "images[0].src",
+            "type": "card-content-image",
+            "label": "",
+            "list": true,
+            "detail": true
+        },
+        {
+            "var": "description",
+            "type": "card-content",
+            "label": "",
+            "list": false,
+            "detail": true
+        },
+        {
+            "var": "permalink",
+            "type": "item-system-browser",
+            "label": "Open Via Web",
+            "list": false,
+            "detail": true
+        }
+    ],
+    "label-for-successfully-added-to-bookmark-list": "Item successfully added to bookmark list",
+    "label-for-successfully-retrieved-data": "Successfully retrieved data!",
+    "label-for-failed-to-retrieve-data-from-server": "Failed to retrieve data from server!",
+    "var-id": "id",
+    "search-by": "name",
+    "search-type": "search",
+    "icon-default": "paper",
+    "currency-symbol": "USD",
+    "readmore": "Readmore",
+    "no-item": "No item"
+}

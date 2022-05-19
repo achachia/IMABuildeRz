@@ -1,0 +1,10 @@
+{
+    "name": "Admob Free",
+    "version": "2.0.0",
+    "desc": "A free, no ad-sharing version of Google AdMob plugin for Cordova",
+    "author": "Ihsana Team",
+    "email": "imabuilder@ihsana.com",
+    "company": "Ihsana IT Solution",
+	"categories":"Advertisement",
+	"prefix":"admob-free"
+}

@@ -1,0 +1,21 @@
+{
+    "bg": {
+        "gradient": {
+            "enable": "true",
+            "start": "#000000",
+            "end": "#000000"
+        },
+        "border": {
+            "enable": "true",
+            "color": "#000000",
+            "width": 1,
+            "radius": 25
+        },
+        "color": "#000000"
+    },
+    "icon": {
+        "color": "#9F4C4C",
+        "top": 0,
+        "left": 0
+    }
+}

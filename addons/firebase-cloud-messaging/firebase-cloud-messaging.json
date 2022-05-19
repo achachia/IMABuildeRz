@@ -1,0 +1,10 @@
+{
+    "name": "Firebase Cloud Messaging",
+    "version": "2.0.0",
+    "desc": "The easy way to create code for Firebase Cloud Messaging",
+    "author": "Ihsana Team",
+    "email": "imabuilder@ihsana.com",
+	"categories":"Notification",
+    "company": "Ihsana IT Solution",
+    "prefix": "firebase-cloud-messaging"
+}

@@ -1,0 +1,11 @@
+{
+    "name": "WordPress App",
+    "version": "2.0.0",
+    "desc": "Create automatic code for WordPress App, this will affect all settings of your project. The features are: Posts, Categories, Comments, Users, Sticky Posts Slider, Favorites, Social Share, Multiple Language and other",
+    "author": "Ihsana Team",
+    "email": "imabuilder@ihsana.com",
+    "company": "Ihsana IT Solution",
+	"categories":"Full Template",
+	"prefix": "wordpress",
+    "full-action": true
+}

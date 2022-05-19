@@ -1,0 +1,104 @@
+{
+    "page-target": "",
+    "page-title": "",
+    "url-list-item": "https:\/\/your-wp.com\/wp-json\/wp\/v2\/posts\/?_embed&status=publish",
+    "url-single-item": "https:\/\/your-wp.com\/wp-json\/wp\/v2\/posts\/{id}\/?_embed&status=publish",
+    "var-list-item": "",
+    "var-single-item": "",
+    "template-list-item": "card",
+    "template-single-item": "card",
+    "auth-type": "none",
+    "auth-uname": "",
+    "auth-pwd": "none",
+    "items-1st-load": 20,
+    "per-page": 20,
+    "date-modified": 1585550499,
+    "page-header-color": "primary",
+    "page-content-background": "assets\/images\/background\/bg-01.png",
+    "enable-bookmark": false,
+    "page-title-for-bookmark-page": "Bookmarks",
+    "variable-bookmark-title": "",
+    "variable-bookmark-subtitle": "",
+    "label-for-please-wait": "Please wait...",
+    "label-for-ok": "Okey",
+    "label-for-no-item": "No item",
+    "infinite-scroll": true,
+    "label-for-detail": "Detail",
+    "label-for-delete": "Delete",
+    "label-for-clean-up": "Clean Up",
+    "vars": [
+        {
+            "var": "id",
+            "type": "id",
+            "label": "ID",
+            "list": false,
+            "detail": false
+        },
+        {
+            "var": "title.rendered",
+            "type": "card-header-title",
+            "label": "",
+            "list": true,
+            "detail": true
+        },
+        {
+            "var": "date_gmt",
+            "type": "card-header-subtitle-date",
+            "label": "",
+            "list": true,
+            "detail": true
+        },
+        {
+            "var": "_embedded['wp:featuredmedia'][0].source_url",
+            "type": "card-content-image",
+            "label": "",
+            "list": false,
+            "detail": true
+        },
+        {
+            "var": "_embedded.author[0].avatar_urls[96]",
+            "type": "card-item-avatar-start",
+            "label": "",
+            "list": true,
+            "detail": true
+        },
+        {
+            "var": "_embedded.author[0].name",
+            "type": "card-item-label-heading",
+            "label": "",
+            "list": true,
+            "detail": true
+        },
+        {
+            "var": "excerpt.rendered",
+            "type": "card-content",
+            "label": "",
+            "list": true,
+            "detail": true
+        },
+        {
+            "var": "content.rendered",
+            "type": "card-content",
+            "label": "",
+            "list": false,
+            "detail": true
+        },
+        {
+            "var": "link",
+            "type": "item-social-share",
+            "label": "",
+            "list": false,
+            "detail": true
+        }
+    ],
+    "label-for-successfully-added-to-bookmark-list": "Item successfully added to bookmark list",
+    "label-for-successfully-retrieved-data": "Successfully retrieved data!",
+    "label-for-failed-to-retrieve-data-from-server": "Failed to retrieve data from server!",
+    "var-id": "id",
+    "search-by": "title.rendered",
+    "search-type": "search",
+    "icon-default": "paper",
+    "currency-symbol": "USD",
+    "readmore": "Readmore",
+    "no-item": "No item"
+}

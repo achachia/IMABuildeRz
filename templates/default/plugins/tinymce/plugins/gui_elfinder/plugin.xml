@@ -1,0 +1,17 @@
+<?xml version="1.0"?> 
+<widget xmlns="http://www.w3.org/ns/widgets">
+	<name>GUI - KCFinder</name>
+	<version>1.16.03.28</version>
+	<license>Commercial</license>
+	<author>Jasman</author>
+	<authorURL>http://ihsana.com/jasman.z</authorURL>
+	<description>Galau UI - KCFinder is a TinyMCE plugin that allow integrated KCFinder File Browser</description>
+	<tags>plugin, tinymce, kcfinder, filebrowser</tags>
+	<preferences>
+		<preference name="id" value="gui_kcfinder"></preference>
+		<preference name="framework" value="galau_ui"></preference>
+		<preference name="path" value="add-ons/gui_kcfinder/plugin.min.js"></preference>
+		<preference name="button" value="gui_kcfinder"></preference>
+        <preference name="gui_kcfinder" value="{toolbar_text:false,url_reguest:gui_kcfinder_url}"></preference>
+	</preferences>
+</widget>

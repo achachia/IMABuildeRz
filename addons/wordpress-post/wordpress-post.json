@@ -1,0 +1,10 @@
+{
+    "name": "WordPress Post",
+    "desc": "Easy way to make the code used to fetching posts on your WordPress. The posts are taken on a category, this is usually used for news portals",
+    "author": "Ihsana Team",
+    "email": "imabuilder@ihsana.com",
+    "company": "Ihsana IT Solution",
+    "prefix": "wordpress-post",
+	"categories":"Page Creator",
+    "version": "2.0.0"
+}

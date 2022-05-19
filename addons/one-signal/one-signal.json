@@ -1,0 +1,10 @@
+{
+    "author": "Ihsana Team",
+    "email": "imabuilder@ihsana.com",
+    "company": "Ihsana IT Solution",
+    "name": "OneSignal Push",
+    "desc": "To make code for OneSignal Push Notification plugin",
+    "version": "2.0.0",
+	"categories":"Notification",
+    "prefix": "one-signal"
+}

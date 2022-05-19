@@ -1,0 +1,10 @@
+{
+    "name": "About Us",
+    "desc": "Create a <strong>About Us</strong> page quickly and easily",
+    "version": "2.0.0",
+    "author": "Ihsana Team",
+    "email": "imabuilder@ihsana.com",
+    "company": "Ihsana IT Solution",
+	"categories":"Page Creator",
+    "prefix": "about-us"
+}

@@ -1,0 +1,10 @@
+{
+    "name": "Firebase Authentication",
+    "version": "2.0.0",
+    "desc": "Firebase Auth is a service that allows your app to sign up and authenticate a user against multiple providers",
+    "author": "Ihsana Team",
+	"categories":"Authentication",
+    "email": "imabuilder@ihsana.com",
+    "company": "Ihsana IT Solution",
+    "prefix": "firebase-authentication"
+}

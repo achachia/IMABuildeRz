@@ -1,0 +1,10 @@
+{
+    "name": "Data Merger for JSON Scraping",
+    "version": "2.0.0",
+    "desc": "Make a home page by the way merge datas taken from JSON Scraping, You can create some elements such as slider, thumbnail or item list",
+    "author": "Ihsana Team",
+    "email": "imabuilder@ihsana.com",
+    "company": "Ihsana IT Solution",
+	"categories":"REST-API",
+	"prefix": "data-merger-for-json-scraping"
+}

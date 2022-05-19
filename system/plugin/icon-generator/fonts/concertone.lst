@@ -1,0 +1,132 @@
+[
+    {
+        "unicode": "&#x0041;",
+        "label": "A",
+        "var": "a"
+    },
+    {
+        "unicode": "&#x42;",
+        "label": "b",
+        "var": "b"
+    },
+    {
+        "unicode": "&#x43;",
+        "label": "c",
+        "var": "c"
+    },
+    {
+        "unicode": "&#x44;",
+        "label": "d",
+        "var": "d"
+    },
+    {
+        "unicode": "&#x45;",
+        "label": "e",
+        "var": "e"
+    },
+    {
+        "unicode": "&#x46;",
+        "label": "f",
+        "var": "f"
+    },
+    {
+        "unicode": "&#x47;",
+        "label": "g",
+        "var": "g"
+    },
+    {
+        "unicode": "&#x48;",
+        "label": "h",
+        "var": "h"
+    },
+    {
+        "unicode": "&#x49;",
+        "label": "i",
+        "var": "i"
+    },
+    {
+        "unicode": "&#x4a;",
+        "label": "j",
+        "var": "j"
+    },
+    {
+        "unicode": "&#x4b;",
+        "label": "k",
+        "var": "k"
+    },
+    {
+        "unicode": "&#x4c;",
+        "label": "l",
+        "var": "l"
+    },
+    {
+        "unicode": "&#x4d;",
+        "label": "m",
+        "var": "m"
+    },
+    {
+        "unicode": "&#x4e;",
+        "label": "n",
+        "var": "n"
+    },
+    {
+        "unicode": "&#x4f;",
+        "label": "o",
+        "var": "o"
+    },
+    {
+        "unicode": "&#x50;",
+        "label": "p",
+        "var": "p"
+    },
+    {
+        "unicode": "&#x51;",
+        "label": "q",
+        "var": "q"
+    },
+    {
+        "unicode": "&#x52;",
+        "label": "r",
+        "var": "r"
+    },
+    {
+        "unicode": "&#x53;",
+        "label": "s",
+        "var": "s"
+    },
+    {
+        "unicode": "&#x54;",
+        "label": "t",
+        "var": "t"
+    },
+    {
+        "unicode": "&#x55;",
+        "label": "u",
+        "var": "u"
+    },
+    {
+        "unicode": "&#x56;",
+        "label": "v",
+        "var": "v"
+    },
+    {
+        "unicode": "&#x57;",
+        "label": "w",
+        "var": "w"
+    },
+    {
+        "unicode": "&#x58;",
+        "label": "x",
+        "var": "x"
+    },
+    {
+        "unicode": "&#x59;",
+        "label": "y",
+        "var": "y"
+    },
+    {
+        "unicode": "&#x5a;",
+        "label": "z",
+        "var": "z"
+    }
+]

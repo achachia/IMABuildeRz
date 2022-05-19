@@ -1,0 +1,10 @@
+{
+    "name": "Dynamic Menu",
+    "version": "2.0.0",
+    "desc": "How to quickly create dynamic menus in your app",
+    "author": "Ihsana Team",
+    "email": "imabuilder@ihsana.com",
+    "company": "Ihsana IT Solution",
+    "prefix": "dynamic-menu",
+    "categories":"Utility"
+}

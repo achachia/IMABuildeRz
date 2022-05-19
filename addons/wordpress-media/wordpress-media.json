@@ -1,0 +1,10 @@
+{
+    "author": "Ihsana Team",
+    "email": "imabuilder@ihsana.com",
+    "company": "Ihsana IT Solution",
+    "name": "WordPress Media",
+    "desc": "An easy way to make the slider or gallery page code sourced from WordPress Media",
+    "version": "2.0.0",
+	"categories":"Page Creator",
+    "prefix": "wordpress-media"
+}

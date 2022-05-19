@@ -1,0 +1,10 @@
+{
+    "name": "WordPress User",
+    "desc": "Easy way to make the code used to fetching users on your WordPress",
+    "version": "2.0.0",
+    "author": "Ihsana Team",
+    "email": "imabuilder@ihsana.com",
+    "company": "Ihsana IT Solution",
+	"categories":"Page Creator",
+    "prefix": "wordpress-user"
+}

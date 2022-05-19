@@ -1,0 +1,10 @@
+{
+    "name": "Deeplinks",
+    "version": "2.0.0",
+    "desc": "This plugin handles deeplinks on iOS and Android for both custom URL scheme links and Universal App Links",
+    "author": "Ihsana Team",
+    "email": "imabuilder@ihsana.com",
+    "company": "Ihsana IT Solution",
+	"categories":"Utility",
+    "prefix": "deeplinks"
+}

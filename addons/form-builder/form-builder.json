@@ -1,0 +1,10 @@
+{
+    "name": "Form Builder",
+    "version": "2.0.0",
+    "desc": "Eazy way to create a form request",
+    "author": "Ihsana Team",
+    "email": "imabuilder@ihsana.com",
+    "company": "Ihsana IT Solution",
+	"categories":"User Interaction ",
+	"prefix": "form-builder"
+}

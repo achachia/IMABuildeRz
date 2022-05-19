@@ -1,0 +1,11 @@
+{
+    "name": "Radio Player",
+    "version": "2.0.0",
+    "desc": "Make a page for a simple radio player support Icecast and SHOUTcast Server",
+    "author": "Ihsana Team",
+    "email": "imabuilder@ihsana.com",
+    "company": "Ihsana IT Solution",
+	"categories":"Page Creator",
+	"prefix": "radio-player"
+	
+}

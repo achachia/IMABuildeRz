@@ -1,0 +1,10 @@
+{
+    "name": "Selling Single Product",
+    "version": "2.0.0",
+    "desc": "Selling a single product with paypal",
+    "author": "Ihsana Team",
+    "email": "imabuilder@ihsana.com",
+    "company": "Ihsana IT Solution",
+	"categories":"Page Creator",
+    "prefix": "selling-single-product"
+}

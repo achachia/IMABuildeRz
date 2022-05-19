@@ -1,0 +1,1 @@
+{"name":"StartApp Ads","desc":"Generate code for StartApp Ads, only android is supported","global":true,"author":"Ihsana Team","email":"imabuilder@ihsana.com","company":"Ihsana IT Solution","form":[{"name":"android-app-id","title":"Android App ID","placeholder":"","help":"","attributes":"required","option":"","type":"text"}],"service":false,"page":false,"component":false}

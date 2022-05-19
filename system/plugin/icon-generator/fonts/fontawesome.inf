@@ -1,0 +1,7 @@
+{
+    "name":"FontAwesome",
+    "author":"Dave Gandy",
+    "link":"https://github.com/FortAwesome/Font-Awesome",
+    "class":"fa",
+    "prefix":"fa"
+}

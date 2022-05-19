@@ -1,0 +1,38 @@
+@font-face {
+  font-family: "concertone";
+  src: url("../fonts/concertone.eot?v=2.0.1");
+  src: url("../fonts/concertone.eot?v=2.0.1#iefix") format("embedded-opentype"), url("../fonts/concertone.ttf?v=2.0.1") format("truetype"), url("../fonts/concertone.woff?v=2.0.1") format("woff"), url("../fonts/concertone.woff") format("woff"), url("../fonts/concertone.svg?v=2.0.1#concertone") format("svg");
+  font-weight: normal;
+  font-style: normal; 
+ }
+.concertone:before {
+  font-family: "concertone";
+  font-style: normal !important;
+ }
+  
+.concertone-a:before{content: "A";}
+.concertone-b:before{content: "B";}
+.concertone-c:before{content: "C";}
+.concertone-d:before{content: "D";}
+.concertone-e:before{content: "E";}
+.concertone-f:before{content: "F";}
+.concertone-g:before{content: "G";}
+.concertone-h:before{content: "H";}
+.concertone-i:before{content: "I";}
+.concertone-j:before{content: "J";}
+.concertone-k:before{content: "K";}
+.concertone-l:before{content: "L";}
+.concertone-m:before{content: "M";}
+.concertone-n:before{content: "N";}
+.concertone-o:before{content: "O";}
+.concertone-p:before{content: "P";}
+.concertone-q:before{content: "Q";}
+.concertone-r:before{content: "R";}
+.concertone-s:before{content: "S";}
+.concertone-t:before{content: "T";}
+.concertone-u:before{content: "U";}
+.concertone-v:before{content: "V";}
+.concertone-w:before{content: "W";}
+.concertone-x:before{content: "X";}
+.concertone-y:before{content: "Y";}
+.concertone-z:before{content: "Z";}

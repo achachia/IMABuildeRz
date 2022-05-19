@@ -1,0 +1,10 @@
+{
+    "author": "Ihsana Team",
+    "email": "imabuilder@ihsana.com",
+    "company": "Ihsana IT Solution",
+    "name": "Step Wizard Slider",
+    "desc": "Create a page wizard for usage instructions, the data used is local data (offline)",
+    "version": "2.0.0",
+	"categories":"Page Creator",
+    "prefix": "step-wizard-slider"
+}

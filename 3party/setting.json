@@ -1,0 +1,1 @@
+{"name":"Test","desc":"Testing addons","global":true,"service":true,"page":true,"component":true,"author":"Ihsana Team","email":"imabuilder@ihsana.com","company":"Ihsana IT Solution","form":[{"name":"banner-position","title":"Banner Position","placeholder":"","help":"","attributes":"","option":"TOP_LEFT|TOP_CENTER|TOP_RIGHT","type":"select"}]}

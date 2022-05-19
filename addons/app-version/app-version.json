@@ -1,0 +1,10 @@
+{
+    "name": "App Version",
+    "version": "2.0.0",
+    "desc": "Generate code to read the version of your app from the target build settings",
+    "author": "Ihsana Team",
+    "email": "imabuilder@ihsana.com",
+    "company": "Ihsana IT Solution",
+	"categories":"Page Creator",
+	"prefix": "app-version"
+}

@@ -1,0 +1,10 @@
+{
+    "name": "Tab Bar Menu",
+    "version": "2.0.0",
+    "desc": "Bring together a few pages with tabs",
+    "author": "Ihsana Team",
+    "email": "imabuilder@ihsana.com",
+    "company": "Ihsana IT Solution",
+	"categories":"Page Creator",
+	"prefix": "tab-bar-button"
+}

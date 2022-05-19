@@ -1,0 +1,7 @@
+{
+    "name":"Dashicons",
+    "author":"WordPress Team",
+    "link":"https://github.com/WordPress/dashicons",
+    "class":"icon-24 baseline dashicons",
+    "prefix":"dashicons"
+}

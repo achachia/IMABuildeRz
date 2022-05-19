@@ -1,0 +1,10 @@
+{
+    "name": "WordPress Page",
+    "desc": "Easy way to make the code used to fetching a page on your WordPress, usually to create a page like privacy etc",
+    "version": "2.0.0",
+    "author": "Ihsana Team",
+    "email": "imabuilder@ihsana.com",
+    "company": "Ihsana IT Solution",
+	"categories":"Page Creator",
+    "prefix": "wordpress-page"
+}

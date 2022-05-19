@@ -1,0 +1,10 @@
+{
+    "name": "App Update",
+    "version": "2.0.0",
+    "desc": "Generate code for compare the app version and update it automatically if the API has a newer version to install",
+    "author": "Ihsana Team",
+    "email": "imabuilder@ihsana.com",
+    "company": "Ihsana IT Solution",
+	"categories":"Utility",
+	"prefix": "app-update"
+}

@@ -1,0 +1,10 @@
+{
+    "author": "Ihsana Team",
+    "email": "imabuilder@ihsana.com",
+    "company": "Ihsana IT Solution",
+    "name": "JSON Scraping",
+    "desc": "Scraping Data from REST-API \/ JSON",
+    "version": "2.0.0",
+	"categories":"REST-API",
+    "prefix": "json-scraping"
+}

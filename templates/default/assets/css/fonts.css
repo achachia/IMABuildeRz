@@ -1,0 +1,33 @@
+@font-face {
+	font-family: 'Fonarto';
+	src: url('../fonts/Fonarto.eot');
+	src: local('☺'), url('../fonts/Fonarto.woff') format('woff'), url('../fonts/Fonarto.ttf') format('truetype'), url('../fonts/Fonarto.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'PoetsenOne';
+	src: url('../fonts/PoetsenOne-Regular.eot');
+	src: local('☺'), url('../fonts/PoetsenOne-Regular.woff') format('woff'), url('../fonts/PoetsenOne-Regular.ttf') format('truetype'), url('../fonts/PoetsenOne-Regular.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'PTSans';
+	src: url('../fonts/PT_Sans-webfont.eot');
+	src: local('☺'), url('../fonts/PT_Sans-webfont.woff') format('woff'), url('../fonts/PT_Sans-webfont.ttf') format('truetype'), url('../fonts/PT_Sans-webfont.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+
+@font-face {
+	font-family: 'FjallaOne';
+	src: url('../fonts/FjallaOne.eot');
+	src: local('☺'), url('../fonts/FjallaOne.woff') format('woff'), url('../fonts/FjallaOne.ttf') format('truetype'), url('../fonts/FjallaOne.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+ 

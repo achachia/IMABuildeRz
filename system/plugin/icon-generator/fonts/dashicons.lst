@@ -1,0 +1,1287 @@
+[
+    {
+        "unicode": "&#xf100;",
+        "label": "admin-appearance",
+        "var": "admin-appearance"
+    },
+    {
+        "unicode": "&#xf148;",
+        "label": "admin-collapse",
+        "var": "admin-collapse"
+    },
+    {
+        "unicode": "&#xf101;",
+        "label": "admin-comments",
+        "var": "admin-comments"
+    },
+    {
+        "unicode": "&#xf540;",
+        "label": "admin-customizer",
+        "var": "admin-customizer"
+    },
+    {
+        "unicode": "&#xf111;",
+        "label": "admin-generic",
+        "var": "admin-generic"
+    },
+    {
+        "unicode": "&#xf102;",
+        "label": "admin-home",
+        "var": "admin-home"
+    },
+    {
+        "unicode": "&#xf103;",
+        "label": "admin-links",
+        "var": "admin-links"
+    },
+    {
+        "unicode": "&#xf104;",
+        "label": "admin-media",
+        "var": "admin-media"
+    },
+    {
+        "unicode": "&#xf541;",
+        "label": "admin-multisite",
+        "var": "admin-multisite"
+    },
+    {
+        "unicode": "&#xf112;",
+        "label": "admin-network",
+        "var": "admin-network"
+    },
+    {
+        "unicode": "&#xf105;",
+        "label": "admin-page",
+        "var": "admin-page"
+    },
+    {
+        "unicode": "&#xf106;",
+        "label": "admin-plugins",
+        "var": "admin-plugins"
+    },
+    {
+        "unicode": "&#xf109;",
+        "label": "admin-post",
+        "var": "admin-post"
+    },
+    {
+        "unicode": "&#xf108;",
+        "label": "admin-settings",
+        "var": "admin-settings"
+    },
+    {
+        "unicode": "&#xf11d;",
+        "label": "admin-site-alt",
+        "var": "admin-site-alt"
+    },
+    {
+        "unicode": "&#xf11e;",
+        "label": "admin-site-alt2",
+        "var": "admin-site-alt2"
+    },
+    {
+        "unicode": "&#xf11f;",
+        "label": "admin-site-alt3",
+        "var": "admin-site-alt3"
+    },
+    {
+        "unicode": "&#xf319;",
+        "label": "admin-site",
+        "var": "admin-site"
+    },
+    {
+        "unicode": "&#xf107;",
+        "label": "admin-tools",
+        "var": "admin-tools"
+    },
+    {
+        "unicode": "&#xf110;",
+        "label": "admin-users",
+        "var": "admin-users"
+    },
+    {
+        "unicode": "&#xf514;",
+        "label": "album",
+        "var": "album"
+    },
+    {
+        "unicode": "&#xf134;",
+        "label": "align-center",
+        "var": "align-center"
+    },
+    {
+        "unicode": "&#xf135;",
+        "label": "align-left",
+        "var": "align-left"
+    },
+    {
+        "unicode": "&#xf138;",
+        "label": "align-none",
+        "var": "align-none"
+    },
+    {
+        "unicode": "&#xf136;",
+        "label": "align-right",
+        "var": "align-right"
+    },
+    {
+        "unicode": "&#xf183;",
+        "label": "analytics",
+        "var": "analytics"
+    },
+    {
+        "unicode": "&#xf480;",
+        "label": "archive",
+        "var": "archive"
+    },
+    {
+        "unicode": "&#xf346;",
+        "label": "arrow-down-alt",
+        "var": "arrow-down-alt"
+    },
+    {
+        "unicode": "&#xf347;",
+        "label": "arrow-down-alt2",
+        "var": "arrow-down-alt2"
+    },
+    {
+        "unicode": "&#xf140;",
+        "label": "arrow-down",
+        "var": "arrow-down"
+    },
+    {
+        "unicode": "&#xf340;",
+        "label": "arrow-left-alt",
+        "var": "arrow-left-alt"
+    },
+    {
+        "unicode": "&#xf341;",
+        "label": "arrow-left-alt2",
+        "var": "arrow-left-alt2"
+    },
+    {
+        "unicode": "&#xf141;",
+        "label": "arrow-left",
+        "var": "arrow-left"
+    },
+    {
+        "unicode": "&#xf344;",
+        "label": "arrow-right-alt",
+        "var": "arrow-right-alt"
+    },
+    {
+        "unicode": "&#xf345;",
+        "label": "arrow-right-alt2",
+        "var": "arrow-right-alt2"
+    },
+    {
+        "unicode": "&#xf139;",
+        "label": "arrow-right",
+        "var": "arrow-right"
+    },
+    {
+        "unicode": "&#xf342;",
+        "label": "arrow-up-alt",
+        "var": "arrow-up-alt"
+    },
+    {
+        "unicode": "&#xf343;",
+        "label": "arrow-up-alt2",
+        "var": "arrow-up-alt2"
+    },
+    {
+        "unicode": "&#xf142;",
+        "label": "arrow-up",
+        "var": "arrow-up"
+    },
+    {
+        "unicode": "&#xf309;",
+        "label": "art",
+        "var": "art"
+    },
+    {
+        "unicode": "&#xf313;",
+        "label": "awards",
+        "var": "awards"
+    },
+    {
+        "unicode": "&#xf321;",
+        "label": "backup",
+        "var": "backup"
+    },
+    {
+        "unicode": "&#xf331;",
+        "label": "book-alt",
+        "var": "book-alt"
+    },
+    {
+        "unicode": "&#xf330;",
+        "label": "book",
+        "var": "book"
+    },
+    {
+        "unicode": "&#xf452;",
+        "label": "buddicons-activity",
+        "var": "buddicons-activity"
+    },
+    {
+        "unicode": "&#xf12b;",
+        "label": "buddicons-bbpress-logo",
+        "var": "buddicons-bbpress-logo"
+    },
+    {
+        "unicode": "&#xf448;",
+        "label": "buddicons-buddypress-logo",
+        "var": "buddicons-buddypress-logo"
+    },
+    {
+        "unicode": "&#xf453;",
+        "label": "buddicons-community",
+        "var": "buddicons-community"
+    },
+    {
+        "unicode": "&#xf449;",
+        "label": "buddicons-forums",
+        "var": "buddicons-forums"
+    },
+    {
+        "unicode": "&#xf454;",
+        "label": "buddicons-friends",
+        "var": "buddicons-friends"
+    },
+    {
+        "unicode": "&#xf456;",
+        "label": "buddicons-groups",
+        "var": "buddicons-groups"
+    },
+    {
+        "unicode": "&#xf457;",
+        "label": "buddicons-pm",
+        "var": "buddicons-pm"
+    },
+    {
+        "unicode": "&#xf451;",
+        "label": "buddicons-replies",
+        "var": "buddicons-replies"
+    },
+    {
+        "unicode": "&#xf450;",
+        "label": "buddicons-topics",
+        "var": "buddicons-topics"
+    },
+    {
+        "unicode": "&#xf455;",
+        "label": "buddicons-tracking",
+        "var": "buddicons-tracking"
+    },
+    {
+        "unicode": "&#xf512;",
+        "label": "building",
+        "var": "building"
+    },
+    {
+        "unicode": "&#xf338;",
+        "label": "businessman",
+        "var": "businessman"
+    },
+    {
+        "unicode": "&#xf508;",
+        "label": "calendar-alt",
+        "var": "calendar-alt"
+    },
+    {
+        "unicode": "&#xf145;",
+        "label": "calendar",
+        "var": "calendar"
+    },
+    {
+        "unicode": "&#xf306;",
+        "label": "camera",
+        "var": "camera"
+    },
+    {
+        "unicode": "&#xf511;",
+        "label": "carrot",
+        "var": "carrot"
+    },
+    {
+        "unicode": "&#xf174;",
+        "label": "cart",
+        "var": "cart"
+    },
+    {
+        "unicode": "&#xf318;",
+        "label": "category",
+        "var": "category"
+    },
+    {
+        "unicode": "&#xf239;",
+        "label": "chart-area",
+        "var": "chart-area"
+    },
+    {
+        "unicode": "&#xf185;",
+        "label": "chart-bar",
+        "var": "chart-bar"
+    },
+    {
+        "unicode": "&#xf238;",
+        "label": "chart-line",
+        "var": "chart-line"
+    },
+    {
+        "unicode": "&#xf184;",
+        "label": "chart-pie",
+        "var": "chart-pie"
+    },
+    {
+        "unicode": "&#xf481;",
+        "label": "clipboard",
+        "var": "clipboard"
+    },
+    {
+        "unicode": "&#xf469;",
+        "label": "clock",
+        "var": "clock"
+    },
+    {
+        "unicode": "&#xf176;",
+        "label": "cloud",
+        "var": "cloud"
+    },
+    {
+        "unicode": "&#xf518;",
+        "label": "controls-back",
+        "var": "controls-back"
+    },
+    {
+        "unicode": "&#xf519;",
+        "label": "controls-forward",
+        "var": "controls-forward"
+    },
+    {
+        "unicode": "&#xf523;",
+        "label": "controls-pause",
+        "var": "controls-pause"
+    },
+    {
+        "unicode": "&#xf522;",
+        "label": "controls-play",
+        "var": "controls-play"
+    },
+    {
+        "unicode": "&#xf515;",
+        "label": "controls-repeat",
+        "var": "controls-repeat"
+    },
+    {
+        "unicode": "&#xf516;",
+        "label": "controls-skipback",
+        "var": "controls-skipback"
+    },
+    {
+        "unicode": "&#xf517;",
+        "label": "controls-skipforward",
+        "var": "controls-skipforward"
+    },
+    {
+        "unicode": "&#xf520;",
+        "label": "controls-volumeoff",
+        "var": "controls-volumeoff"
+    },
+    {
+        "unicode": "&#xf521;",
+        "label": "controls-volumeon",
+        "var": "controls-volumeon"
+    },
+    {
+        "unicode": "&#xf226;",
+        "label": "dashboard",
+        "var": "dashboard"
+    },
+    {
+        "unicode": "&#xf472;",
+        "label": "desktop",
+        "var": "desktop"
+    },
+    {
+        "unicode": "&#xf153;",
+        "label": "dismiss",
+        "var": "dismiss"
+    },
+    {
+        "unicode": "&#xf316;",
+        "label": "download",
+        "var": "download"
+    },
+    {
+        "unicode": "&#xf464;",
+        "label": "edit",
+        "var": "edit"
+    },
+    {
+        "unicode": "&#xf207;",
+        "label": "editor-aligncenter",
+        "var": "editor-aligncenter"
+    },
+    {
+        "unicode": "&#xf206;",
+        "label": "editor-alignleft",
+        "var": "editor-alignleft"
+    },
+    {
+        "unicode": "&#xf208;",
+        "label": "editor-alignright",
+        "var": "editor-alignright"
+    },
+    {
+        "unicode": "&#xf200;",
+        "label": "editor-bold",
+        "var": "editor-bold"
+    },
+    {
+        "unicode": "&#xf474;",
+        "label": "editor-break",
+        "var": "editor-break"
+    },
+    {
+        "unicode": "&#xf475;",
+        "label": "editor-code",
+        "var": "editor-code"
+    },
+    {
+        "unicode": "&#xf506;",
+        "label": "editor-contract",
+        "var": "editor-contract"
+    },
+    {
+        "unicode": "&#xf220;",
+        "label": "editor-customchar",
+        "var": "editor-customchar"
+    },
+    {
+        "unicode": "&#xf211;",
+        "label": "editor-expand",
+        "var": "editor-expand"
+    },
+    {
+        "unicode": "&#xf223;",
+        "label": "editor-help",
+        "var": "editor-help"
+    },
+    {
+        "unicode": "&#xf222;",
+        "label": "editor-indent",
+        "var": "editor-indent"
+    },
+    {
+        "unicode": "&#xf209;",
+        "label": "editor-insertmore",
+        "var": "editor-insertmore"
+    },
+    {
+        "unicode": "&#xf201;",
+        "label": "editor-italic",
+        "var": "editor-italic"
+    },
+    {
+        "unicode": "&#xf214;",
+        "label": "editor-justify",
+        "var": "editor-justify"
+    },
+    {
+        "unicode": "&#xf212;",
+        "label": "editor-kitchensink",
+        "var": "editor-kitchensink"
+    },
+    {
+        "unicode": "&#xf129;",
+        "label": "editor-ltr",
+        "var": "editor-ltr"
+    },
+    {
+        "unicode": "&#xf204;",
+        "label": "editor-ol",
+        "var": "editor-ol"
+    },
+    {
+        "unicode": "&#xf221;",
+        "label": "editor-outdent",
+        "var": "editor-outdent"
+    },
+    {
+        "unicode": "&#xf476;",
+        "label": "editor-paragraph",
+        "var": "editor-paragraph"
+    },
+    {
+        "unicode": "&#xf217;",
+        "label": "editor-paste-text",
+        "var": "editor-paste-text"
+    },
+    {
+        "unicode": "&#xf216;",
+        "label": "editor-paste-word",
+        "var": "editor-paste-word"
+    },
+    {
+        "unicode": "&#xf205;",
+        "label": "editor-quote",
+        "var": "editor-quote"
+    },
+    {
+        "unicode": "&#xf218;",
+        "label": "editor-removeformatting",
+        "var": "editor-removeformatting"
+    },
+    {
+        "unicode": "&#xf320;",
+        "label": "editor-rtl",
+        "var": "editor-rtl"
+    },
+    {
+        "unicode": "&#xf210;",
+        "label": "editor-spellcheck",
+        "var": "editor-spellcheck"
+    },
+    {
+        "unicode": "&#xf224;",
+        "label": "editor-strikethrough",
+        "var": "editor-strikethrough"
+    },
+    {
+        "unicode": "&#xf535;",
+        "label": "editor-table",
+        "var": "editor-table"
+    },
+    {
+        "unicode": "&#xf215;",
+        "label": "editor-textcolor",
+        "var": "editor-textcolor"
+    },
+    {
+        "unicode": "&#xf203;",
+        "label": "editor-ul",
+        "var": "editor-ul"
+    },
+    {
+        "unicode": "&#xf213;",
+        "label": "editor-underline",
+        "var": "editor-underline"
+    },
+    {
+        "unicode": "&#xf225;",
+        "label": "editor-unlink",
+        "var": "editor-unlink"
+    },
+    {
+        "unicode": "&#xf219;",
+        "label": "editor-video",
+        "var": "editor-video"
+    },
+    {
+        "unicode": "&#xf466;",
+        "label": "email-alt",
+        "var": "email-alt"
+    },
+    {
+        "unicode": "&#xf10a;",
+        "label": "email-alt2",
+        "var": "email-alt2"
+    },
+    {
+        "unicode": "&#xf465;",
+        "label": "email",
+        "var": "email"
+    },
+    {
+        "unicode": "&#xf164;",
+        "label": "excerpt-view",
+        "var": "excerpt-view"
+    },
+    {
+        "unicode": "&#xf504;",
+        "label": "external",
+        "var": "external"
+    },
+    {
+        "unicode": "&#xf305;",
+        "label": "facebook-alt",
+        "var": "facebook-alt"
+    },
+    {
+        "unicode": "&#xf304;",
+        "label": "facebook",
+        "var": "facebook"
+    },
+    {
+        "unicode": "&#xf175;",
+        "label": "feedback",
+        "var": "feedback"
+    },
+    {
+        "unicode": "&#xf536;",
+        "label": "filter",
+        "var": "filter"
+    },
+    {
+        "unicode": "&#xf227;",
+        "label": "flag",
+        "var": "flag"
+    },
+    {
+        "unicode": "&#xf123;",
+        "label": "format-aside",
+        "var": "format-aside"
+    },
+    {
+        "unicode": "&#xf127;",
+        "label": "format-audio",
+        "var": "format-audio"
+    },
+    {
+        "unicode": "&#xf125;",
+        "label": "format-chat",
+        "var": "format-chat"
+    },
+    {
+        "unicode": "&#xf161;",
+        "label": "format-gallery",
+        "var": "format-gallery"
+    },
+    {
+        "unicode": "&#xf128;",
+        "label": "format-image",
+        "var": "format-image"
+    },
+    {
+        "unicode": "&#xf122;",
+        "label": "format-quote",
+        "var": "format-quote"
+    },
+    {
+        "unicode": "&#xf130;",
+        "label": "format-status",
+        "var": "format-status"
+    },
+    {
+        "unicode": "&#xf126;",
+        "label": "format-video",
+        "var": "format-video"
+    },
+    {
+        "unicode": "&#xf314;",
+        "label": "forms",
+        "var": "forms"
+    },
+    {
+        "unicode": "&#xf462;",
+        "label": "googleplus",
+        "var": "googleplus"
+    },
+    {
+        "unicode": "&#xf509;",
+        "label": "grid-view",
+        "var": "grid-view"
+    },
+    {
+        "unicode": "&#xf307;",
+        "label": "groups",
+        "var": "groups"
+    },
+    {
+        "unicode": "&#xf308;",
+        "label": "hammer",
+        "var": "hammer"
+    },
+    {
+        "unicode": "&#xf487;",
+        "label": "heart",
+        "var": "heart"
+    },
+    {
+        "unicode": "&#xf530;",
+        "label": "hidden",
+        "var": "hidden"
+    },
+    {
+        "unicode": "&#xf337;",
+        "label": "id-alt",
+        "var": "id-alt"
+    },
+    {
+        "unicode": "&#xf336;",
+        "label": "id",
+        "var": "id"
+    },
+    {
+        "unicode": "&#xf165;",
+        "label": "image-crop",
+        "var": "image-crop"
+    },
+    {
+        "unicode": "&#xf533;",
+        "label": "image-filter",
+        "var": "image-filter"
+    },
+    {
+        "unicode": "&#xf169;",
+        "label": "image-flip-horizontal",
+        "var": "image-flip-horizontal"
+    },
+    {
+        "unicode": "&#xf168;",
+        "label": "image-flip-vertical",
+        "var": "image-flip-vertical"
+    },
+    {
+        "unicode": "&#xf166;",
+        "label": "image-rotate-left",
+        "var": "image-rotate-left"
+    },
+    {
+        "unicode": "&#xf167;",
+        "label": "image-rotate-right",
+        "var": "image-rotate-right"
+    },
+    {
+        "unicode": "&#xf531;",
+        "label": "image-rotate",
+        "var": "image-rotate"
+    },
+    {
+        "unicode": "&#xf232;",
+        "label": "images-alt",
+        "var": "images-alt"
+    },
+    {
+        "unicode": "&#xf233;",
+        "label": "images-alt2",
+        "var": "images-alt2"
+    },
+    {
+        "unicode": "&#xf510;",
+        "label": "index-card",
+        "var": "index-card"
+    },
+    {
+        "unicode": "&#xf348;",
+        "label": "info",
+        "var": "info"
+    },
+    {
+        "unicode": "&#xf547;",
+        "label": "laptop",
+        "var": "laptop"
+    },
+    {
+        "unicode": "&#xf538;",
+        "label": "layout",
+        "var": "layout"
+    },
+    {
+        "unicode": "&#xf229;",
+        "label": "leftright",
+        "var": "leftright"
+    },
+    {
+        "unicode": "&#xf339;",
+        "label": "lightbulb",
+        "var": "lightbulb"
+    },
+    {
+        "unicode": "&#xf163;",
+        "label": "list-view",
+        "var": "list-view"
+    },
+    {
+        "unicode": "&#xf231;",
+        "label": "location-alt",
+        "var": "location-alt"
+    },
+    {
+        "unicode": "&#xf230;",
+        "label": "location",
+        "var": "location"
+    },
+    {
+        "unicode": "&#xf160;",
+        "label": "lock",
+        "var": "lock"
+    },
+    {
+        "unicode": "&#xf159;",
+        "label": "marker",
+        "var": "marker"
+    },
+    {
+        "unicode": "&#xf501;",
+        "label": "media-archive",
+        "var": "media-archive"
+    },
+    {
+        "unicode": "&#xf500;",
+        "label": "media-audio",
+        "var": "media-audio"
+    },
+    {
+        "unicode": "&#xf499;",
+        "label": "media-code",
+        "var": "media-code"
+    },
+    {
+        "unicode": "&#xf498;",
+        "label": "media-default",
+        "var": "media-default"
+    },
+    {
+        "unicode": "&#xf497;",
+        "label": "media-document",
+        "var": "media-document"
+    },
+    {
+        "unicode": "&#xf496;",
+        "label": "media-interactive",
+        "var": "media-interactive"
+    },
+    {
+        "unicode": "&#xf495;",
+        "label": "media-spreadsheet",
+        "var": "media-spreadsheet"
+    },
+    {
+        "unicode": "&#xf491;",
+        "label": "media-text",
+        "var": "media-text"
+    },
+    {
+        "unicode": "&#xf490;",
+        "label": "media-video",
+        "var": "media-video"
+    },
+    {
+        "unicode": "&#xf488;",
+        "label": "megaphone",
+        "var": "megaphone"
+    },
+    {
+        "unicode": "&#xf10b;",
+        "label": "menu-alt",
+        "var": "menu-alt"
+    },
+    {
+        "unicode": "&#xf333;",
+        "label": "menu",
+        "var": "menu"
+    },
+    {
+        "unicode": "&#xf482;",
+        "label": "microphone",
+        "var": "microphone"
+    },
+    {
+        "unicode": "&#xf310;",
+        "label": "migrate",
+        "var": "migrate"
+    },
+    {
+        "unicode": "&#xf460;",
+        "label": "minus",
+        "var": "minus"
+    },
+    {
+        "unicode": "&#xf526;",
+        "label": "money",
+        "var": "money"
+    },
+    {
+        "unicode": "&#xf545;",
+        "label": "move",
+        "var": "move"
+    },
+    {
+        "unicode": "&#xf484;",
+        "label": "nametag",
+        "var": "nametag"
+    },
+    {
+        "unicode": "&#xf325;",
+        "label": "networking",
+        "var": "networking"
+    },
+    {
+        "unicode": "&#xf335;",
+        "label": "no-alt",
+        "var": "no-alt"
+    },
+    {
+        "unicode": "&#xf158;",
+        "label": "no",
+        "var": "no"
+    },
+    {
+        "unicode": "&#xf527;",
+        "label": "palmtree",
+        "var": "palmtree"
+    },
+    {
+        "unicode": "&#xf546;",
+        "label": "paperclip",
+        "var": "paperclip"
+    },
+    {
+        "unicode": "&#xf311;",
+        "label": "performance",
+        "var": "performance"
+    },
+    {
+        "unicode": "&#xf525;",
+        "label": "phone",
+        "var": "phone"
+    },
+    {
+        "unicode": "&#xf492;",
+        "label": "playlist-audio",
+        "var": "playlist-audio"
+    },
+    {
+        "unicode": "&#xf493;",
+        "label": "playlist-video",
+        "var": "playlist-video"
+    },
+    {
+        "unicode": "&#xf502;",
+        "label": "plus-alt",
+        "var": "plus-alt"
+    },
+    {
+        "unicode": "&#xf10c;",
+        "label": "plus-light",
+        "var": "plus-light"
+    },
+    {
+        "unicode": "&#xf132;",
+        "label": "plus",
+        "var": "plus"
+    },
+    {
+        "unicode": "&#xf322;",
+        "label": "portfolio",
+        "var": "portfolio"
+    },
+    {
+        "unicode": "&#xf173;",
+        "label": "post-status",
+        "var": "post-status"
+    },
+    {
+        "unicode": "&#xf157;",
+        "label": "pressthis",
+        "var": "pressthis"
+    },
+    {
+        "unicode": "&#xf312;",
+        "label": "products",
+        "var": "products"
+    },
+    {
+        "unicode": "&#xf503;",
+        "label": "randomize",
+        "var": "randomize"
+    },
+    {
+        "unicode": "&#xf172;",
+        "label": "redo",
+        "var": "redo"
+    },
+    {
+        "unicode": "&#xf124;",
+        "label": "rest-api",
+        "var": "rest-api"
+    },
+    {
+        "unicode": "&#xf303;",
+        "label": "rss",
+        "var": "rss"
+    },
+    {
+        "unicode": "&#xf489;",
+        "label": "schedule",
+        "var": "schedule"
+    },
+    {
+        "unicode": "&#xf180;",
+        "label": "screenoptions",
+        "var": "screenoptions"
+    },
+    {
+        "unicode": "&#xf179;",
+        "label": "search",
+        "var": "search"
+    },
+    {
+        "unicode": "&#xf240;",
+        "label": "share-alt",
+        "var": "share-alt"
+    },
+    {
+        "unicode": "&#xf242;",
+        "label": "share-alt2",
+        "var": "share-alt2"
+    },
+    {
+        "unicode": "&#xf237;",
+        "label": "share",
+        "var": "share"
+    },
+    {
+        "unicode": "&#xf334;",
+        "label": "shield-alt",
+        "var": "shield-alt"
+    },
+    {
+        "unicode": "&#xf332;",
+        "label": "shield",
+        "var": "shield"
+    },
+    {
+        "unicode": "&#xf181;",
+        "label": "slides",
+        "var": "slides"
+    },
+    {
+        "unicode": "&#xf470;",
+        "label": "smartphone",
+        "var": "smartphone"
+    },
+    {
+        "unicode": "&#xf328;",
+        "label": "smiley",
+        "var": "smiley"
+    },
+    {
+        "unicode": "&#xf156;",
+        "label": "sort",
+        "var": "sort"
+    },
+    {
+        "unicode": "&#xf468;",
+        "label": "sos",
+        "var": "sos"
+    },
+    {
+        "unicode": "&#xf154;",
+        "label": "star-empty",
+        "var": "star-empty"
+    },
+    {
+        "unicode": "&#xf155;",
+        "label": "star-filled",
+        "var": "star-filled"
+    },
+    {
+        "unicode": "&#xf459;",
+        "label": "star-half",
+        "var": "star-half"
+    },
+    {
+        "unicode": "&#xf537;",
+        "label": "sticky",
+        "var": "sticky"
+    },
+    {
+        "unicode": "&#xf513;",
+        "label": "store",
+        "var": "store"
+    },
+    {
+        "unicode": "&#xf471;",
+        "label": "tablet",
+        "var": "tablet"
+    },
+    {
+        "unicode": "&#xf323;",
+        "label": "tag",
+        "var": "tag"
+    },
+    {
+        "unicode": "&#xf479;",
+        "label": "tagcloud",
+        "var": "tagcloud"
+    },
+    {
+        "unicode": "&#xf473;",
+        "label": "testimonial",
+        "var": "testimonial"
+    },
+    {
+        "unicode": "&#xf478;",
+        "label": "text",
+        "var": "text"
+    },
+    {
+        "unicode": "&#xf542;",
+        "label": "thumbs-down",
+        "var": "thumbs-down"
+    },
+    {
+        "unicode": "&#xf529;",
+        "label": "thumbs-up",
+        "var": "thumbs-up"
+    },
+    {
+        "unicode": "&#xf524;",
+        "label": "tickets-alt",
+        "var": "tickets-alt"
+    },
+    {
+        "unicode": "&#xf486;",
+        "label": "tickets",
+        "var": "tickets"
+    },
+    {
+        "unicode": "&#xf10d;",
+        "label": "tide",
+        "var": "tide"
+    },
+    {
+        "unicode": "&#xf326;",
+        "label": "translation",
+        "var": "translation"
+    },
+    {
+        "unicode": "&#xf182;",
+        "label": "trash",
+        "var": "trash"
+    },
+    {
+        "unicode": "&#xf301;",
+        "label": "twitter",
+        "var": "twitter"
+    },
+    {
+        "unicode": "&#xf171;",
+        "label": "undo",
+        "var": "undo"
+    },
+    {
+        "unicode": "&#xf507;",
+        "label": "universal-access-alt",
+        "var": "universal-access-alt"
+    },
+    {
+        "unicode": "&#xf483;",
+        "label": "universal-access",
+        "var": "universal-access"
+    },
+    {
+        "unicode": "&#xf528;",
+        "label": "unlock",
+        "var": "unlock"
+    },
+    {
+        "unicode": "&#xf463;",
+        "label": "update",
+        "var": "update"
+    },
+    {
+        "unicode": "&#xf317;",
+        "label": "upload",
+        "var": "upload"
+    },
+    {
+        "unicode": "&#xf178;",
+        "label": "vault",
+        "var": "vault"
+    },
+    {
+        "unicode": "&#xf234;",
+        "label": "video-alt",
+        "var": "video-alt"
+    },
+    {
+        "unicode": "&#xf235;",
+        "label": "video-alt2",
+        "var": "video-alt2"
+    },
+    {
+        "unicode": "&#xf236;",
+        "label": "video-alt3",
+        "var": "video-alt3"
+    },
+    {
+        "unicode": "&#xf177;",
+        "label": "visibility",
+        "var": "visibility"
+    },
+    {
+        "unicode": "&#xf534;",
+        "label": "warning",
+        "var": "warning"
+    },
+    {
+        "unicode": "&#xf133;",
+        "label": "welcome-add-page",
+        "var": "welcome-add-page"
+    },
+    {
+        "unicode": "&#xf117;",
+        "label": "welcome-comments",
+        "var": "welcome-comments"
+    },
+    {
+        "unicode": "&#xf118;",
+        "label": "welcome-learn-more",
+        "var": "welcome-learn-more"
+    },
+    {
+        "unicode": "&#xf115;",
+        "label": "welcome-view-site",
+        "var": "welcome-view-site"
+    },
+    {
+        "unicode": "&#xf116;",
+        "label": "welcome-widgets-menus",
+        "var": "welcome-widgets-menus"
+    },
+    {
+        "unicode": "&#xf119;",
+        "label": "welcome-write-blog",
+        "var": "welcome-write-blog"
+    },
+    {
+        "unicode": "&#xf324;",
+        "label": "wordpress-alt",
+        "var": "wordpress-alt"
+    },
+    {
+        "unicode": "&#xf120;",
+        "label": "wordpress",
+        "var": "wordpress"
+    },
+    {
+        "unicode": "&#xf12a;",
+        "label": "yes-alt",
+        "var": "yes-alt"
+    },
+    {
+        "unicode": "&#xf147;",
+        "label": "yes",
+        "var": "yes"
+    },
+    {
+        "unicode": "&#xf103;",
+        "label": "format-links",
+        "var": "format-links"
+    },
+    {
+        "unicode": "&#xf119;",
+        "label": "welcome-edit-page",
+        "var": "welcome-edit-page"
+    },
+    {
+        "unicode": "&#xf109;",
+        "label": "format-standard",
+        "var": "format-standard"
+    }
+]

@@ -1,0 +1,3667 @@
+[
+    {
+        "unicode": "&#xf101;",
+        "label": "alert",
+        "var": "alert"
+    },
+    {
+        "unicode": "&#xf100;",
+        "label": "alert-circled",
+        "var": "alert-circled"
+    },
+    {
+        "unicode": "&#xf2c7;",
+        "label": "android-add",
+        "var": "android-add"
+    },
+    {
+        "unicode": "&#xf359;",
+        "label": "android-add-circle",
+        "var": "android-add-circle"
+    },
+    {
+        "unicode": "&#xf35a;",
+        "label": "android-alarm-clock",
+        "var": "android-alarm-clock"
+    },
+    {
+        "unicode": "&#xf35b;",
+        "label": "android-alert",
+        "var": "android-alert"
+    },
+    {
+        "unicode": "&#xf35c;",
+        "label": "android-apps",
+        "var": "android-apps"
+    },
+    {
+        "unicode": "&#xf2c9;",
+        "label": "android-archive",
+        "var": "android-archive"
+    },
+    {
+        "unicode": "&#xf2ca;",
+        "label": "android-arrow-back",
+        "var": "android-arrow-back"
+    },
+    {
+        "unicode": "&#xf35d;",
+        "label": "android-arrow-down",
+        "var": "android-arrow-down"
+    },
+    {
+        "unicode": "&#xf35f;",
+        "label": "android-arrow-dropdown",
+        "var": "android-arrow-dropdown"
+    },
+    {
+        "unicode": "&#xf35e;",
+        "label": "android-arrow-dropdown-circle",
+        "var": "android-arrow-dropdown-circle"
+    },
+    {
+        "unicode": "&#xf361;",
+        "label": "android-arrow-dropleft",
+        "var": "android-arrow-dropleft"
+    },
+    {
+        "unicode": "&#xf360;",
+        "label": "android-arrow-dropleft-circle",
+        "var": "android-arrow-dropleft-circle"
+    },
+    {
+        "unicode": "&#xf363;",
+        "label": "android-arrow-dropright",
+        "var": "android-arrow-dropright"
+    },
+    {
+        "unicode": "&#xf362;",
+        "label": "android-arrow-dropright-circle",
+        "var": "android-arrow-dropright-circle"
+    },
+    {
+        "unicode": "&#xf365;",
+        "label": "android-arrow-dropup",
+        "var": "android-arrow-dropup"
+    },
+    {
+        "unicode": "&#xf364;",
+        "label": "android-arrow-dropup-circle",
+        "var": "android-arrow-dropup-circle"
+    },
+    {
+        "unicode": "&#xf30f;",
+        "label": "android-arrow-forward",
+        "var": "android-arrow-forward"
+    },
+    {
+        "unicode": "&#xf366;",
+        "label": "android-arrow-up",
+        "var": "android-arrow-up"
+    },
+    {
+        "unicode": "&#xf367;",
+        "label": "android-attach",
+        "var": "android-attach"
+    },
+    {
+        "unicode": "&#xf368;",
+        "label": "android-bar",
+        "var": "android-bar"
+    },
+    {
+        "unicode": "&#xf369;",
+        "label": "android-bicycle",
+        "var": "android-bicycle"
+    },
+    {
+        "unicode": "&#xf36a;",
+        "label": "android-boat",
+        "var": "android-boat"
+    },
+    {
+        "unicode": "&#xf36b;",
+        "label": "android-bookmark",
+        "var": "android-bookmark"
+    },
+    {
+        "unicode": "&#xf36c;",
+        "label": "android-bulb",
+        "var": "android-bulb"
+    },
+    {
+        "unicode": "&#xf36d;",
+        "label": "android-bus",
+        "var": "android-bus"
+    },
+    {
+        "unicode": "&#xf2d1;",
+        "label": "android-calendar",
+        "var": "android-calendar"
+    },
+    {
+        "unicode": "&#xf2d2;",
+        "label": "android-call",
+        "var": "android-call"
+    },
+    {
+        "unicode": "&#xf2d3;",
+        "label": "android-camera",
+        "var": "android-camera"
+    },
+    {
+        "unicode": "&#xf36e;",
+        "label": "android-cancel",
+        "var": "android-cancel"
+    },
+    {
+        "unicode": "&#xf36f;",
+        "label": "android-car",
+        "var": "android-car"
+    },
+    {
+        "unicode": "&#xf370;",
+        "label": "android-cart",
+        "var": "android-cart"
+    },
+    {
+        "unicode": "&#xf2d4;",
+        "label": "android-chat",
+        "var": "android-chat"
+    },
+    {
+        "unicode": "&#xf374;",
+        "label": "android-checkbox",
+        "var": "android-checkbox"
+    },
+    {
+        "unicode": "&#xf371;",
+        "label": "android-checkbox-blank",
+        "var": "android-checkbox-blank"
+    },
+    {
+        "unicode": "&#xf373;",
+        "label": "android-checkbox-outline",
+        "var": "android-checkbox-outline"
+    },
+    {
+        "unicode": "&#xf372;",
+        "label": "android-checkbox-outline-blank",
+        "var": "android-checkbox-outline-blank"
+    },
+    {
+        "unicode": "&#xf375;",
+        "label": "android-checkmark-circle",
+        "var": "android-checkmark-circle"
+    },
+    {
+        "unicode": "&#xf376;",
+        "label": "android-clipboard",
+        "var": "android-clipboard"
+    },
+    {
+        "unicode": "&#xf2d7;",
+        "label": "android-close",
+        "var": "android-close"
+    },
+    {
+        "unicode": "&#xf37a;",
+        "label": "android-cloud",
+        "var": "android-cloud"
+    },
+    {
+        "unicode": "&#xf377;",
+        "label": "android-cloud-circle",
+        "var": "android-cloud-circle"
+    },
+    {
+        "unicode": "&#xf378;",
+        "label": "android-cloud-done",
+        "var": "android-cloud-done"
+    },
+    {
+        "unicode": "&#xf379;",
+        "label": "android-cloud-outline",
+        "var": "android-cloud-outline"
+    },
+    {
+        "unicode": "&#xf37b;",
+        "label": "android-color-palette",
+        "var": "android-color-palette"
+    },
+    {
+        "unicode": "&#xf37c;",
+        "label": "android-compass",
+        "var": "android-compass"
+    },
+    {
+        "unicode": "&#xf2d8;",
+        "label": "android-contact",
+        "var": "android-contact"
+    },
+    {
+        "unicode": "&#xf2d9;",
+        "label": "android-contacts",
+        "var": "android-contacts"
+    },
+    {
+        "unicode": "&#xf37d;",
+        "label": "android-contract",
+        "var": "android-contract"
+    },
+    {
+        "unicode": "&#xf37e;",
+        "label": "android-create",
+        "var": "android-create"
+    },
+    {
+        "unicode": "&#xf37f;",
+        "label": "android-delete",
+        "var": "android-delete"
+    },
+    {
+        "unicode": "&#xf380;",
+        "label": "android-desktop",
+        "var": "android-desktop"
+    },
+    {
+        "unicode": "&#xf381;",
+        "label": "android-document",
+        "var": "android-document"
+    },
+    {
+        "unicode": "&#xf383;",
+        "label": "android-done",
+        "var": "android-done"
+    },
+    {
+        "unicode": "&#xf382;",
+        "label": "android-done-all",
+        "var": "android-done-all"
+    },
+    {
+        "unicode": "&#xf2dd;",
+        "label": "android-download",
+        "var": "android-download"
+    },
+    {
+        "unicode": "&#xf384;",
+        "label": "android-drafts",
+        "var": "android-drafts"
+    },
+    {
+        "unicode": "&#xf385;",
+        "label": "android-exit",
+        "var": "android-exit"
+    },
+    {
+        "unicode": "&#xf386;",
+        "label": "android-expand",
+        "var": "android-expand"
+    },
+    {
+        "unicode": "&#xf388;",
+        "label": "android-favorite",
+        "var": "android-favorite"
+    },
+    {
+        "unicode": "&#xf387;",
+        "label": "android-favorite-outline",
+        "var": "android-favorite-outline"
+    },
+    {
+        "unicode": "&#xf389;",
+        "label": "android-film",
+        "var": "android-film"
+    },
+    {
+        "unicode": "&#xf2e0;",
+        "label": "android-folder",
+        "var": "android-folder"
+    },
+    {
+        "unicode": "&#xf38a;",
+        "label": "android-folder-open",
+        "var": "android-folder-open"
+    },
+    {
+        "unicode": "&#xf38b;",
+        "label": "android-funnel",
+        "var": "android-funnel"
+    },
+    {
+        "unicode": "&#xf38c;",
+        "label": "android-globe",
+        "var": "android-globe"
+    },
+    {
+        "unicode": "&#xf2e3;",
+        "label": "android-hand",
+        "var": "android-hand"
+    },
+    {
+        "unicode": "&#xf38d;",
+        "label": "android-hangout",
+        "var": "android-hangout"
+    },
+    {
+        "unicode": "&#xf38e;",
+        "label": "android-happy",
+        "var": "android-happy"
+    },
+    {
+        "unicode": "&#xf38f;",
+        "label": "android-home",
+        "var": "android-home"
+    },
+    {
+        "unicode": "&#xf2e4;",
+        "label": "android-image",
+        "var": "android-image"
+    },
+    {
+        "unicode": "&#xf390;",
+        "label": "android-laptop",
+        "var": "android-laptop"
+    },
+    {
+        "unicode": "&#xf391;",
+        "label": "android-list",
+        "var": "android-list"
+    },
+    {
+        "unicode": "&#xf2e9;",
+        "label": "android-locate",
+        "var": "android-locate"
+    },
+    {
+        "unicode": "&#xf392;",
+        "label": "android-lock",
+        "var": "android-lock"
+    },
+    {
+        "unicode": "&#xf2eb;",
+        "label": "android-mail",
+        "var": "android-mail"
+    },
+    {
+        "unicode": "&#xf393;",
+        "label": "android-map",
+        "var": "android-map"
+    },
+    {
+        "unicode": "&#xf394;",
+        "label": "android-menu",
+        "var": "android-menu"
+    },
+    {
+        "unicode": "&#xf2ec;",
+        "label": "android-microphone",
+        "var": "android-microphone"
+    },
+    {
+        "unicode": "&#xf395;",
+        "label": "android-microphone-off",
+        "var": "android-microphone-off"
+    },
+    {
+        "unicode": "&#xf396;",
+        "label": "android-more-horizontal",
+        "var": "android-more-horizontal"
+    },
+    {
+        "unicode": "&#xf397;",
+        "label": "android-more-vertical",
+        "var": "android-more-vertical"
+    },
+    {
+        "unicode": "&#xf398;",
+        "label": "android-navigate",
+        "var": "android-navigate"
+    },
+    {
+        "unicode": "&#xf39b;",
+        "label": "android-notifications",
+        "var": "android-notifications"
+    },
+    {
+        "unicode": "&#xf399;",
+        "label": "android-notifications-none",
+        "var": "android-notifications-none"
+    },
+    {
+        "unicode": "&#xf39a;",
+        "label": "android-notifications-off",
+        "var": "android-notifications-off"
+    },
+    {
+        "unicode": "&#xf39c;",
+        "label": "android-open",
+        "var": "android-open"
+    },
+    {
+        "unicode": "&#xf39d;",
+        "label": "android-options",
+        "var": "android-options"
+    },
+    {
+        "unicode": "&#xf39e;",
+        "label": "android-people",
+        "var": "android-people"
+    },
+    {
+        "unicode": "&#xf3a0;",
+        "label": "android-person",
+        "var": "android-person"
+    },
+    {
+        "unicode": "&#xf39f;",
+        "label": "android-person-add",
+        "var": "android-person-add"
+    },
+    {
+        "unicode": "&#xf3a1;",
+        "label": "android-phone-landscape",
+        "var": "android-phone-landscape"
+    },
+    {
+        "unicode": "&#xf3a2;",
+        "label": "android-phone-portrait",
+        "var": "android-phone-portrait"
+    },
+    {
+        "unicode": "&#xf3a3;",
+        "label": "android-pin",
+        "var": "android-pin"
+    },
+    {
+        "unicode": "&#xf3a4;",
+        "label": "android-plane",
+        "var": "android-plane"
+    },
+    {
+        "unicode": "&#xf2f0;",
+        "label": "android-playstore",
+        "var": "android-playstore"
+    },
+    {
+        "unicode": "&#xf3a5;",
+        "label": "android-print",
+        "var": "android-print"
+    },
+    {
+        "unicode": "&#xf3a6;",
+        "label": "android-radio-button-off",
+        "var": "android-radio-button-off"
+    },
+    {
+        "unicode": "&#xf3a7;",
+        "label": "android-radio-button-on",
+        "var": "android-radio-button-on"
+    },
+    {
+        "unicode": "&#xf3a8;",
+        "label": "android-refresh",
+        "var": "android-refresh"
+    },
+    {
+        "unicode": "&#xf2f4;",
+        "label": "android-remove",
+        "var": "android-remove"
+    },
+    {
+        "unicode": "&#xf3a9;",
+        "label": "android-remove-circle",
+        "var": "android-remove-circle"
+    },
+    {
+        "unicode": "&#xf3aa;",
+        "label": "android-restaurant",
+        "var": "android-restaurant"
+    },
+    {
+        "unicode": "&#xf3ab;",
+        "label": "android-sad",
+        "var": "android-sad"
+    },
+    {
+        "unicode": "&#xf2f5;",
+        "label": "android-search",
+        "var": "android-search"
+    },
+    {
+        "unicode": "&#xf2f6;",
+        "label": "android-send",
+        "var": "android-send"
+    },
+    {
+        "unicode": "&#xf2f7;",
+        "label": "android-settings",
+        "var": "android-settings"
+    },
+    {
+        "unicode": "&#xf2f8;",
+        "label": "android-share",
+        "var": "android-share"
+    },
+    {
+        "unicode": "&#xf3ac;",
+        "label": "android-share-alt",
+        "var": "android-share-alt"
+    },
+    {
+        "unicode": "&#xf2fc;",
+        "label": "android-star",
+        "var": "android-star"
+    },
+    {
+        "unicode": "&#xf3ad;",
+        "label": "android-star-half",
+        "var": "android-star-half"
+    },
+    {
+        "unicode": "&#xf3ae;",
+        "label": "android-star-outline",
+        "var": "android-star-outline"
+    },
+    {
+        "unicode": "&#xf2fd;",
+        "label": "android-stopwatch",
+        "var": "android-stopwatch"
+    },
+    {
+        "unicode": "&#xf3af;",
+        "label": "android-subway",
+        "var": "android-subway"
+    },
+    {
+        "unicode": "&#xf3b0;",
+        "label": "android-sunny",
+        "var": "android-sunny"
+    },
+    {
+        "unicode": "&#xf3b1;",
+        "label": "android-sync",
+        "var": "android-sync"
+    },
+    {
+        "unicode": "&#xf3b2;",
+        "label": "android-textsms",
+        "var": "android-textsms"
+    },
+    {
+        "unicode": "&#xf3b3;",
+        "label": "android-time",
+        "var": "android-time"
+    },
+    {
+        "unicode": "&#xf3b4;",
+        "label": "android-train",
+        "var": "android-train"
+    },
+    {
+        "unicode": "&#xf3b5;",
+        "label": "android-unlock",
+        "var": "android-unlock"
+    },
+    {
+        "unicode": "&#xf3b6;",
+        "label": "android-upload",
+        "var": "android-upload"
+    },
+    {
+        "unicode": "&#xf3b7;",
+        "label": "android-volume-down",
+        "var": "android-volume-down"
+    },
+    {
+        "unicode": "&#xf3b8;",
+        "label": "android-volume-mute",
+        "var": "android-volume-mute"
+    },
+    {
+        "unicode": "&#xf3b9;",
+        "label": "android-volume-off",
+        "var": "android-volume-off"
+    },
+    {
+        "unicode": "&#xf3ba;",
+        "label": "android-volume-up",
+        "var": "android-volume-up"
+    },
+    {
+        "unicode": "&#xf3bb;",
+        "label": "android-walk",
+        "var": "android-walk"
+    },
+    {
+        "unicode": "&#xf3bc;",
+        "label": "android-warning",
+        "var": "android-warning"
+    },
+    {
+        "unicode": "&#xf3bd;",
+        "label": "android-watch",
+        "var": "android-watch"
+    },
+    {
+        "unicode": "&#xf305;",
+        "label": "android-wifi",
+        "var": "android-wifi"
+    },
+    {
+        "unicode": "&#xf313;",
+        "label": "aperture",
+        "var": "aperture"
+    },
+    {
+        "unicode": "&#xf102;",
+        "label": "archive",
+        "var": "archive"
+    },
+    {
+        "unicode": "&#xf103;",
+        "label": "arrow-down-a",
+        "var": "arrow-down-a"
+    },
+    {
+        "unicode": "&#xf104;",
+        "label": "arrow-down-b",
+        "var": "arrow-down-b"
+    },
+    {
+        "unicode": "&#xf105;",
+        "label": "arrow-down-c",
+        "var": "arrow-down-c"
+    },
+    {
+        "unicode": "&#xf25e;",
+        "label": "arrow-expand",
+        "var": "arrow-expand"
+    },
+    {
+        "unicode": "&#xf25f;",
+        "label": "arrow-graph-down-left",
+        "var": "arrow-graph-down-left"
+    },
+    {
+        "unicode": "&#xf260;",
+        "label": "arrow-graph-down-right",
+        "var": "arrow-graph-down-right"
+    },
+    {
+        "unicode": "&#xf261;",
+        "label": "arrow-graph-up-left",
+        "var": "arrow-graph-up-left"
+    },
+    {
+        "unicode": "&#xf262;",
+        "label": "arrow-graph-up-right",
+        "var": "arrow-graph-up-right"
+    },
+    {
+        "unicode": "&#xf106;",
+        "label": "arrow-left-a",
+        "var": "arrow-left-a"
+    },
+    {
+        "unicode": "&#xf107;",
+        "label": "arrow-left-b",
+        "var": "arrow-left-b"
+    },
+    {
+        "unicode": "&#xf108;",
+        "label": "arrow-left-c",
+        "var": "arrow-left-c"
+    },
+    {
+        "unicode": "&#xf263;",
+        "label": "arrow-move",
+        "var": "arrow-move"
+    },
+    {
+        "unicode": "&#xf264;",
+        "label": "arrow-resize",
+        "var": "arrow-resize"
+    },
+    {
+        "unicode": "&#xf265;",
+        "label": "arrow-return-left",
+        "var": "arrow-return-left"
+    },
+    {
+        "unicode": "&#xf266;",
+        "label": "arrow-return-right",
+        "var": "arrow-return-right"
+    },
+    {
+        "unicode": "&#xf109;",
+        "label": "arrow-right-a",
+        "var": "arrow-right-a"
+    },
+    {
+        "unicode": "&#xf10a;",
+        "label": "arrow-right-b",
+        "var": "arrow-right-b"
+    },
+    {
+        "unicode": "&#xf10b;",
+        "label": "arrow-right-c",
+        "var": "arrow-right-c"
+    },
+    {
+        "unicode": "&#xf267;",
+        "label": "arrow-shrink",
+        "var": "arrow-shrink"
+    },
+    {
+        "unicode": "&#xf268;",
+        "label": "arrow-swap",
+        "var": "arrow-swap"
+    },
+    {
+        "unicode": "&#xf10c;",
+        "label": "arrow-up-a",
+        "var": "arrow-up-a"
+    },
+    {
+        "unicode": "&#xf10d;",
+        "label": "arrow-up-b",
+        "var": "arrow-up-b"
+    },
+    {
+        "unicode": "&#xf10e;",
+        "label": "arrow-up-c",
+        "var": "arrow-up-c"
+    },
+    {
+        "unicode": "&#xf314;",
+        "label": "asterisk",
+        "var": "asterisk"
+    },
+    {
+        "unicode": "&#xf10f;",
+        "label": "at",
+        "var": "at"
+    },
+    {
+        "unicode": "&#xf3bf;",
+        "label": "backspace",
+        "var": "backspace"
+    },
+    {
+        "unicode": "&#xf3be;",
+        "label": "backspace-outline",
+        "var": "backspace-outline"
+    },
+    {
+        "unicode": "&#xf110;",
+        "label": "bag",
+        "var": "bag"
+    },
+    {
+        "unicode": "&#xf111;",
+        "label": "battery-charging",
+        "var": "battery-charging"
+    },
+    {
+        "unicode": "&#xf112;",
+        "label": "battery-empty",
+        "var": "battery-empty"
+    },
+    {
+        "unicode": "&#xf113;",
+        "label": "battery-full",
+        "var": "battery-full"
+    },
+    {
+        "unicode": "&#xf114;",
+        "label": "battery-half",
+        "var": "battery-half"
+    },
+    {
+        "unicode": "&#xf115;",
+        "label": "battery-low",
+        "var": "battery-low"
+    },
+    {
+        "unicode": "&#xf269;",
+        "label": "beaker",
+        "var": "beaker"
+    },
+    {
+        "unicode": "&#xf26a;",
+        "label": "beer",
+        "var": "beer"
+    },
+    {
+        "unicode": "&#xf116;",
+        "label": "bluetooth",
+        "var": "bluetooth"
+    },
+    {
+        "unicode": "&#xf315;",
+        "label": "bonfire",
+        "var": "bonfire"
+    },
+    {
+        "unicode": "&#xf26b;",
+        "label": "bookmark",
+        "var": "bookmark"
+    },
+    {
+        "unicode": "&#xf3c0;",
+        "label": "bowtie",
+        "var": "bowtie"
+    },
+    {
+        "unicode": "&#xf26c;",
+        "label": "briefcase",
+        "var": "briefcase"
+    },
+    {
+        "unicode": "&#xf2be;",
+        "label": "bug",
+        "var": "bug"
+    },
+    {
+        "unicode": "&#xf26d;",
+        "label": "calculator",
+        "var": "calculator"
+    },
+    {
+        "unicode": "&#xf117;",
+        "label": "calendar",
+        "var": "calendar"
+    },
+    {
+        "unicode": "&#xf118;",
+        "label": "camera",
+        "var": "camera"
+    },
+    {
+        "unicode": "&#xf119;",
+        "label": "card",
+        "var": "card"
+    },
+    {
+        "unicode": "&#xf316;",
+        "label": "cash",
+        "var": "cash"
+    },
+    {
+        "unicode": "&#xf11b;",
+        "label": "chatbox",
+        "var": "chatbox"
+    },
+    {
+        "unicode": "&#xf11a;",
+        "label": "chatbox-working",
+        "var": "chatbox-working"
+    },
+    {
+        "unicode": "&#xf11c;",
+        "label": "chatboxes",
+        "var": "chatboxes"
+    },
+    {
+        "unicode": "&#xf11e;",
+        "label": "chatbubble",
+        "var": "chatbubble"
+    },
+    {
+        "unicode": "&#xf11d;",
+        "label": "chatbubble-working",
+        "var": "chatbubble-working"
+    },
+    {
+        "unicode": "&#xf11f;",
+        "label": "chatbubbles",
+        "var": "chatbubbles"
+    },
+    {
+        "unicode": "&#xf122;",
+        "label": "checkmark",
+        "var": "checkmark"
+    },
+    {
+        "unicode": "&#xf120;",
+        "label": "checkmark-circled",
+        "var": "checkmark-circled"
+    },
+    {
+        "unicode": "&#xf121;",
+        "label": "checkmark-round",
+        "var": "checkmark-round"
+    },
+    {
+        "unicode": "&#xf123;",
+        "label": "chevron-down",
+        "var": "chevron-down"
+    },
+    {
+        "unicode": "&#xf124;",
+        "label": "chevron-left",
+        "var": "chevron-left"
+    },
+    {
+        "unicode": "&#xf125;",
+        "label": "chevron-right",
+        "var": "chevron-right"
+    },
+    {
+        "unicode": "&#xf126;",
+        "label": "chevron-up",
+        "var": "chevron-up"
+    },
+    {
+        "unicode": "&#xf127;",
+        "label": "clipboard",
+        "var": "clipboard"
+    },
+    {
+        "unicode": "&#xf26e;",
+        "label": "clock",
+        "var": "clock"
+    },
+    {
+        "unicode": "&#xf12a;",
+        "label": "close",
+        "var": "close"
+    },
+    {
+        "unicode": "&#xf128;",
+        "label": "close-circled",
+        "var": "close-circled"
+    },
+    {
+        "unicode": "&#xf129;",
+        "label": "close-round",
+        "var": "close-round"
+    },
+    {
+        "unicode": "&#xf317;",
+        "label": "closed-captioning",
+        "var": "closed-captioning"
+    },
+    {
+        "unicode": "&#xf12b;",
+        "label": "cloud",
+        "var": "cloud"
+    },
+    {
+        "unicode": "&#xf271;",
+        "label": "code",
+        "var": "code"
+    },
+    {
+        "unicode": "&#xf26f;",
+        "label": "code-download",
+        "var": "code-download"
+    },
+    {
+        "unicode": "&#xf270;",
+        "label": "code-working",
+        "var": "code-working"
+    },
+    {
+        "unicode": "&#xf272;",
+        "label": "coffee",
+        "var": "coffee"
+    },
+    {
+        "unicode": "&#xf273;",
+        "label": "compass",
+        "var": "compass"
+    },
+    {
+        "unicode": "&#xf12c;",
+        "label": "compose",
+        "var": "compose"
+    },
+    {
+        "unicode": "&#xf274;",
+        "label": "connection-bars",
+        "var": "connection-bars"
+    },
+    {
+        "unicode": "&#xf275;",
+        "label": "contrast",
+        "var": "contrast"
+    },
+    {
+        "unicode": "&#xf3c1;",
+        "label": "crop",
+        "var": "crop"
+    },
+    {
+        "unicode": "&#xf318;",
+        "label": "cube",
+        "var": "cube"
+    },
+    {
+        "unicode": "&#xf12d;",
+        "label": "disc",
+        "var": "disc"
+    },
+    {
+        "unicode": "&#xf12f;",
+        "label": "document",
+        "var": "document"
+    },
+    {
+        "unicode": "&#xf12e;",
+        "label": "document-text",
+        "var": "document-text"
+    },
+    {
+        "unicode": "&#xf130;",
+        "label": "drag",
+        "var": "drag"
+    },
+    {
+        "unicode": "&#xf276;",
+        "label": "earth",
+        "var": "earth"
+    },
+    {
+        "unicode": "&#xf3c2;",
+        "label": "easel",
+        "var": "easel"
+    },
+    {
+        "unicode": "&#xf2bf;",
+        "label": "edit",
+        "var": "edit"
+    },
+    {
+        "unicode": "&#xf277;",
+        "label": "egg",
+        "var": "egg"
+    },
+    {
+        "unicode": "&#xf131;",
+        "label": "eject",
+        "var": "eject"
+    },
+    {
+        "unicode": "&#xf132;",
+        "label": "email",
+        "var": "email"
+    },
+    {
+        "unicode": "&#xf3c3;",
+        "label": "email-unread",
+        "var": "email-unread"
+    },
+    {
+        "unicode": "&#xf3c5;",
+        "label": "erlenmeyer-flask",
+        "var": "erlenmeyer-flask"
+    },
+    {
+        "unicode": "&#xf3c4;",
+        "label": "erlenmeyer-flask-bubbles",
+        "var": "erlenmeyer-flask-bubbles"
+    },
+    {
+        "unicode": "&#xf133;",
+        "label": "eye",
+        "var": "eye"
+    },
+    {
+        "unicode": "&#xf306;",
+        "label": "eye-disabled",
+        "var": "eye-disabled"
+    },
+    {
+        "unicode": "&#xf278;",
+        "label": "female",
+        "var": "female"
+    },
+    {
+        "unicode": "&#xf134;",
+        "label": "filing",
+        "var": "filing"
+    },
+    {
+        "unicode": "&#xf135;",
+        "label": "film-marker",
+        "var": "film-marker"
+    },
+    {
+        "unicode": "&#xf319;",
+        "label": "fireball",
+        "var": "fireball"
+    },
+    {
+        "unicode": "&#xf279;",
+        "label": "flag",
+        "var": "flag"
+    },
+    {
+        "unicode": "&#xf31a;",
+        "label": "flame",
+        "var": "flame"
+    },
+    {
+        "unicode": "&#xf137;",
+        "label": "flash",
+        "var": "flash"
+    },
+    {
+        "unicode": "&#xf136;",
+        "label": "flash-off",
+        "var": "flash-off"
+    },
+    {
+        "unicode": "&#xf139;",
+        "label": "folder",
+        "var": "folder"
+    },
+    {
+        "unicode": "&#xf27a;",
+        "label": "fork",
+        "var": "fork"
+    },
+    {
+        "unicode": "&#xf2c0;",
+        "label": "fork-repo",
+        "var": "fork-repo"
+    },
+    {
+        "unicode": "&#xf13a;",
+        "label": "forward",
+        "var": "forward"
+    },
+    {
+        "unicode": "&#xf31b;",
+        "label": "funnel",
+        "var": "funnel"
+    },
+    {
+        "unicode": "&#xf13d;",
+        "label": "gear-a",
+        "var": "gear-a"
+    },
+    {
+        "unicode": "&#xf13e;",
+        "label": "gear-b",
+        "var": "gear-b"
+    },
+    {
+        "unicode": "&#xf13f;",
+        "label": "grid",
+        "var": "grid"
+    },
+    {
+        "unicode": "&#xf27b;",
+        "label": "hammer",
+        "var": "hammer"
+    },
+    {
+        "unicode": "&#xf31c;",
+        "label": "happy",
+        "var": "happy"
+    },
+    {
+        "unicode": "&#xf3c6;",
+        "label": "happy-outline",
+        "var": "happy-outline"
+    },
+    {
+        "unicode": "&#xf140;",
+        "label": "headphone",
+        "var": "headphone"
+    },
+    {
+        "unicode": "&#xf141;",
+        "label": "heart",
+        "var": "heart"
+    },
+    {
+        "unicode": "&#xf31d;",
+        "label": "heart-broken",
+        "var": "heart-broken"
+    },
+    {
+        "unicode": "&#xf143;",
+        "label": "help",
+        "var": "help"
+    },
+    {
+        "unicode": "&#xf27c;",
+        "label": "help-buoy",
+        "var": "help-buoy"
+    },
+    {
+        "unicode": "&#xf142;",
+        "label": "help-circled",
+        "var": "help-circled"
+    },
+    {
+        "unicode": "&#xf144;",
+        "label": "home",
+        "var": "home"
+    },
+    {
+        "unicode": "&#xf27d;",
+        "label": "icecream",
+        "var": "icecream"
+    },
+    {
+        "unicode": "&#xf147;",
+        "label": "image",
+        "var": "image"
+    },
+    {
+        "unicode": "&#xf148;",
+        "label": "images",
+        "var": "images"
+    },
+    {
+        "unicode": "&#xf14a;",
+        "label": "information",
+        "var": "information"
+    },
+    {
+        "unicode": "&#xf149;",
+        "label": "information-circled",
+        "var": "information-circled"
+    },
+    {
+        "unicode": "&#xf14b;",
+        "label": "ionic",
+        "var": "ionic"
+    },
+    {
+        "unicode": "&#xf3c8;",
+        "label": "ios-alarm",
+        "var": "ios-alarm"
+    },
+    {
+        "unicode": "&#xf3c7;",
+        "label": "ios-alarm-outline",
+        "var": "ios-alarm-outline"
+    },
+    {
+        "unicode": "&#xf3ca;",
+        "label": "ios-albums",
+        "var": "ios-albums"
+    },
+    {
+        "unicode": "&#xf3c9;",
+        "label": "ios-albums-outline",
+        "var": "ios-albums-outline"
+    },
+    {
+        "unicode": "&#xf3cc;",
+        "label": "ios-americanfootball",
+        "var": "ios-americanfootball"
+    },
+    {
+        "unicode": "&#xf3cb;",
+        "label": "ios-americanfootball-outline",
+        "var": "ios-americanfootball-outline"
+    },
+    {
+        "unicode": "&#xf3ce;",
+        "label": "ios-analytics",
+        "var": "ios-analytics"
+    },
+    {
+        "unicode": "&#xf3cd;",
+        "label": "ios-analytics-outline",
+        "var": "ios-analytics-outline"
+    },
+    {
+        "unicode": "&#xf3cf;",
+        "label": "ios-arrow-back",
+        "var": "ios-arrow-back"
+    },
+    {
+        "unicode": "&#xf3d0;",
+        "label": "ios-arrow-down",
+        "var": "ios-arrow-down"
+    },
+    {
+        "unicode": "&#xf3d1;",
+        "label": "ios-arrow-forward",
+        "var": "ios-arrow-forward"
+    },
+    {
+        "unicode": "&#xf3d2;",
+        "label": "ios-arrow-left",
+        "var": "ios-arrow-left"
+    },
+    {
+        "unicode": "&#xf3d3;",
+        "label": "ios-arrow-right",
+        "var": "ios-arrow-right"
+    },
+    {
+        "unicode": "&#xf3d4;",
+        "label": "ios-arrow-thin-down",
+        "var": "ios-arrow-thin-down"
+    },
+    {
+        "unicode": "&#xf3d5;",
+        "label": "ios-arrow-thin-left",
+        "var": "ios-arrow-thin-left"
+    },
+    {
+        "unicode": "&#xf3d6;",
+        "label": "ios-arrow-thin-right",
+        "var": "ios-arrow-thin-right"
+    },
+    {
+        "unicode": "&#xf3d7;",
+        "label": "ios-arrow-thin-up",
+        "var": "ios-arrow-thin-up"
+    },
+    {
+        "unicode": "&#xf3d8;",
+        "label": "ios-arrow-up",
+        "var": "ios-arrow-up"
+    },
+    {
+        "unicode": "&#xf3da;",
+        "label": "ios-at",
+        "var": "ios-at"
+    },
+    {
+        "unicode": "&#xf3d9;",
+        "label": "ios-at-outline",
+        "var": "ios-at-outline"
+    },
+    {
+        "unicode": "&#xf3dc;",
+        "label": "ios-barcode",
+        "var": "ios-barcode"
+    },
+    {
+        "unicode": "&#xf3db;",
+        "label": "ios-barcode-outline",
+        "var": "ios-barcode-outline"
+    },
+    {
+        "unicode": "&#xf3de;",
+        "label": "ios-baseball",
+        "var": "ios-baseball"
+    },
+    {
+        "unicode": "&#xf3dd;",
+        "label": "ios-baseball-outline",
+        "var": "ios-baseball-outline"
+    },
+    {
+        "unicode": "&#xf3e0;",
+        "label": "ios-basketball",
+        "var": "ios-basketball"
+    },
+    {
+        "unicode": "&#xf3df;",
+        "label": "ios-basketball-outline",
+        "var": "ios-basketball-outline"
+    },
+    {
+        "unicode": "&#xf3e2;",
+        "label": "ios-bell",
+        "var": "ios-bell"
+    },
+    {
+        "unicode": "&#xf3e1;",
+        "label": "ios-bell-outline",
+        "var": "ios-bell-outline"
+    },
+    {
+        "unicode": "&#xf3e4;",
+        "label": "ios-body",
+        "var": "ios-body"
+    },
+    {
+        "unicode": "&#xf3e3;",
+        "label": "ios-body-outline",
+        "var": "ios-body-outline"
+    },
+    {
+        "unicode": "&#xf3e6;",
+        "label": "ios-bolt",
+        "var": "ios-bolt"
+    },
+    {
+        "unicode": "&#xf3e5;",
+        "label": "ios-bolt-outline",
+        "var": "ios-bolt-outline"
+    },
+    {
+        "unicode": "&#xf3e8;",
+        "label": "ios-book",
+        "var": "ios-book"
+    },
+    {
+        "unicode": "&#xf3e7;",
+        "label": "ios-book-outline",
+        "var": "ios-book-outline"
+    },
+    {
+        "unicode": "&#xf3ea;",
+        "label": "ios-bookmarks",
+        "var": "ios-bookmarks"
+    },
+    {
+        "unicode": "&#xf3e9;",
+        "label": "ios-bookmarks-outline",
+        "var": "ios-bookmarks-outline"
+    },
+    {
+        "unicode": "&#xf3ec;",
+        "label": "ios-box",
+        "var": "ios-box"
+    },
+    {
+        "unicode": "&#xf3eb;",
+        "label": "ios-box-outline",
+        "var": "ios-box-outline"
+    },
+    {
+        "unicode": "&#xf3ee;",
+        "label": "ios-briefcase",
+        "var": "ios-briefcase"
+    },
+    {
+        "unicode": "&#xf3ed;",
+        "label": "ios-briefcase-outline",
+        "var": "ios-briefcase-outline"
+    },
+    {
+        "unicode": "&#xf3f0;",
+        "label": "ios-browsers",
+        "var": "ios-browsers"
+    },
+    {
+        "unicode": "&#xf3ef;",
+        "label": "ios-browsers-outline",
+        "var": "ios-browsers-outline"
+    },
+    {
+        "unicode": "&#xf3f2;",
+        "label": "ios-calculator",
+        "var": "ios-calculator"
+    },
+    {
+        "unicode": "&#xf3f1;",
+        "label": "ios-calculator-outline",
+        "var": "ios-calculator-outline"
+    },
+    {
+        "unicode": "&#xf3f4;",
+        "label": "ios-calendar",
+        "var": "ios-calendar"
+    },
+    {
+        "unicode": "&#xf3f3;",
+        "label": "ios-calendar-outline",
+        "var": "ios-calendar-outline"
+    },
+    {
+        "unicode": "&#xf3f6;",
+        "label": "ios-camera",
+        "var": "ios-camera"
+    },
+    {
+        "unicode": "&#xf3f5;",
+        "label": "ios-camera-outline",
+        "var": "ios-camera-outline"
+    },
+    {
+        "unicode": "&#xf3f8;",
+        "label": "ios-cart",
+        "var": "ios-cart"
+    },
+    {
+        "unicode": "&#xf3f7;",
+        "label": "ios-cart-outline",
+        "var": "ios-cart-outline"
+    },
+    {
+        "unicode": "&#xf3fa;",
+        "label": "ios-chatboxes",
+        "var": "ios-chatboxes"
+    },
+    {
+        "unicode": "&#xf3f9;",
+        "label": "ios-chatboxes-outline",
+        "var": "ios-chatboxes-outline"
+    },
+    {
+        "unicode": "&#xf3fc;",
+        "label": "ios-chatbubble",
+        "var": "ios-chatbubble"
+    },
+    {
+        "unicode": "&#xf3fb;",
+        "label": "ios-chatbubble-outline",
+        "var": "ios-chatbubble-outline"
+    },
+    {
+        "unicode": "&#xf3ff;",
+        "label": "ios-checkmark",
+        "var": "ios-checkmark"
+    },
+    {
+        "unicode": "&#xf3fd;",
+        "label": "ios-checkmark-empty",
+        "var": "ios-checkmark-empty"
+    },
+    {
+        "unicode": "&#xf3fe;",
+        "label": "ios-checkmark-outline",
+        "var": "ios-checkmark-outline"
+    },
+    {
+        "unicode": "&#xf400;",
+        "label": "ios-circle-filled",
+        "var": "ios-circle-filled"
+    },
+    {
+        "unicode": "&#xf401;",
+        "label": "ios-circle-outline",
+        "var": "ios-circle-outline"
+    },
+    {
+        "unicode": "&#xf403;",
+        "label": "ios-clock",
+        "var": "ios-clock"
+    },
+    {
+        "unicode": "&#xf402;",
+        "label": "ios-clock-outline",
+        "var": "ios-clock-outline"
+    },
+    {
+        "unicode": "&#xf406;",
+        "label": "ios-close",
+        "var": "ios-close"
+    },
+    {
+        "unicode": "&#xf404;",
+        "label": "ios-close-empty",
+        "var": "ios-close-empty"
+    },
+    {
+        "unicode": "&#xf405;",
+        "label": "ios-close-outline",
+        "var": "ios-close-outline"
+    },
+    {
+        "unicode": "&#xf40c;",
+        "label": "ios-cloud",
+        "var": "ios-cloud"
+    },
+    {
+        "unicode": "&#xf408;",
+        "label": "ios-cloud-download",
+        "var": "ios-cloud-download"
+    },
+    {
+        "unicode": "&#xf407;",
+        "label": "ios-cloud-download-outline",
+        "var": "ios-cloud-download-outline"
+    },
+    {
+        "unicode": "&#xf409;",
+        "label": "ios-cloud-outline",
+        "var": "ios-cloud-outline"
+    },
+    {
+        "unicode": "&#xf40b;",
+        "label": "ios-cloud-upload",
+        "var": "ios-cloud-upload"
+    },
+    {
+        "unicode": "&#xf40a;",
+        "label": "ios-cloud-upload-outline",
+        "var": "ios-cloud-upload-outline"
+    },
+    {
+        "unicode": "&#xf410;",
+        "label": "ios-cloudy",
+        "var": "ios-cloudy"
+    },
+    {
+        "unicode": "&#xf40e;",
+        "label": "ios-cloudy-night",
+        "var": "ios-cloudy-night"
+    },
+    {
+        "unicode": "&#xf40d;",
+        "label": "ios-cloudy-night-outline",
+        "var": "ios-cloudy-night-outline"
+    },
+    {
+        "unicode": "&#xf40f;",
+        "label": "ios-cloudy-outline",
+        "var": "ios-cloudy-outline"
+    },
+    {
+        "unicode": "&#xf412;",
+        "label": "ios-cog",
+        "var": "ios-cog"
+    },
+    {
+        "unicode": "&#xf411;",
+        "label": "ios-cog-outline",
+        "var": "ios-cog-outline"
+    },
+    {
+        "unicode": "&#xf414;",
+        "label": "ios-color-filter",
+        "var": "ios-color-filter"
+    },
+    {
+        "unicode": "&#xf413;",
+        "label": "ios-color-filter-outline",
+        "var": "ios-color-filter-outline"
+    },
+    {
+        "unicode": "&#xf416;",
+        "label": "ios-color-wand",
+        "var": "ios-color-wand"
+    },
+    {
+        "unicode": "&#xf415;",
+        "label": "ios-color-wand-outline",
+        "var": "ios-color-wand-outline"
+    },
+    {
+        "unicode": "&#xf418;",
+        "label": "ios-compose",
+        "var": "ios-compose"
+    },
+    {
+        "unicode": "&#xf417;",
+        "label": "ios-compose-outline",
+        "var": "ios-compose-outline"
+    },
+    {
+        "unicode": "&#xf41a;",
+        "label": "ios-contact",
+        "var": "ios-contact"
+    },
+    {
+        "unicode": "&#xf419;",
+        "label": "ios-contact-outline",
+        "var": "ios-contact-outline"
+    },
+    {
+        "unicode": "&#xf41c;",
+        "label": "ios-copy",
+        "var": "ios-copy"
+    },
+    {
+        "unicode": "&#xf41b;",
+        "label": "ios-copy-outline",
+        "var": "ios-copy-outline"
+    },
+    {
+        "unicode": "&#xf41e;",
+        "label": "ios-crop",
+        "var": "ios-crop"
+    },
+    {
+        "unicode": "&#xf41d;",
+        "label": "ios-crop-strong",
+        "var": "ios-crop-strong"
+    },
+    {
+        "unicode": "&#xf420;",
+        "label": "ios-download",
+        "var": "ios-download"
+    },
+    {
+        "unicode": "&#xf41f;",
+        "label": "ios-download-outline",
+        "var": "ios-download-outline"
+    },
+    {
+        "unicode": "&#xf421;",
+        "label": "ios-drag",
+        "var": "ios-drag"
+    },
+    {
+        "unicode": "&#xf423;",
+        "label": "ios-email",
+        "var": "ios-email"
+    },
+    {
+        "unicode": "&#xf422;",
+        "label": "ios-email-outline",
+        "var": "ios-email-outline"
+    },
+    {
+        "unicode": "&#xf425;",
+        "label": "ios-eye",
+        "var": "ios-eye"
+    },
+    {
+        "unicode": "&#xf424;",
+        "label": "ios-eye-outline",
+        "var": "ios-eye-outline"
+    },
+    {
+        "unicode": "&#xf427;",
+        "label": "ios-fastforward",
+        "var": "ios-fastforward"
+    },
+    {
+        "unicode": "&#xf426;",
+        "label": "ios-fastforward-outline",
+        "var": "ios-fastforward-outline"
+    },
+    {
+        "unicode": "&#xf429;",
+        "label": "ios-filing",
+        "var": "ios-filing"
+    },
+    {
+        "unicode": "&#xf428;",
+        "label": "ios-filing-outline",
+        "var": "ios-filing-outline"
+    },
+    {
+        "unicode": "&#xf42b;",
+        "label": "ios-film",
+        "var": "ios-film"
+    },
+    {
+        "unicode": "&#xf42a;",
+        "label": "ios-film-outline",
+        "var": "ios-film-outline"
+    },
+    {
+        "unicode": "&#xf42d;",
+        "label": "ios-flag",
+        "var": "ios-flag"
+    },
+    {
+        "unicode": "&#xf42c;",
+        "label": "ios-flag-outline",
+        "var": "ios-flag-outline"
+    },
+    {
+        "unicode": "&#xf42f;",
+        "label": "ios-flame",
+        "var": "ios-flame"
+    },
+    {
+        "unicode": "&#xf42e;",
+        "label": "ios-flame-outline",
+        "var": "ios-flame-outline"
+    },
+    {
+        "unicode": "&#xf431;",
+        "label": "ios-flask",
+        "var": "ios-flask"
+    },
+    {
+        "unicode": "&#xf430;",
+        "label": "ios-flask-outline",
+        "var": "ios-flask-outline"
+    },
+    {
+        "unicode": "&#xf433;",
+        "label": "ios-flower",
+        "var": "ios-flower"
+    },
+    {
+        "unicode": "&#xf432;",
+        "label": "ios-flower-outline",
+        "var": "ios-flower-outline"
+    },
+    {
+        "unicode": "&#xf435;",
+        "label": "ios-folder",
+        "var": "ios-folder"
+    },
+    {
+        "unicode": "&#xf434;",
+        "label": "ios-folder-outline",
+        "var": "ios-folder-outline"
+    },
+    {
+        "unicode": "&#xf437;",
+        "label": "ios-football",
+        "var": "ios-football"
+    },
+    {
+        "unicode": "&#xf436;",
+        "label": "ios-football-outline",
+        "var": "ios-football-outline"
+    },
+    {
+        "unicode": "&#xf439;",
+        "label": "ios-game-controller-a",
+        "var": "ios-game-controller-a"
+    },
+    {
+        "unicode": "&#xf438;",
+        "label": "ios-game-controller-a-outline",
+        "var": "ios-game-controller-a-outline"
+    },
+    {
+        "unicode": "&#xf43b;",
+        "label": "ios-game-controller-b",
+        "var": "ios-game-controller-b"
+    },
+    {
+        "unicode": "&#xf43a;",
+        "label": "ios-game-controller-b-outline",
+        "var": "ios-game-controller-b-outline"
+    },
+    {
+        "unicode": "&#xf43d;",
+        "label": "ios-gear",
+        "var": "ios-gear"
+    },
+    {
+        "unicode": "&#xf43c;",
+        "label": "ios-gear-outline",
+        "var": "ios-gear-outline"
+    },
+    {
+        "unicode": "&#xf43f;",
+        "label": "ios-glasses",
+        "var": "ios-glasses"
+    },
+    {
+        "unicode": "&#xf43e;",
+        "label": "ios-glasses-outline",
+        "var": "ios-glasses-outline"
+    },
+    {
+        "unicode": "&#xf441;",
+        "label": "ios-grid-view",
+        "var": "ios-grid-view"
+    },
+    {
+        "unicode": "&#xf440;",
+        "label": "ios-grid-view-outline",
+        "var": "ios-grid-view-outline"
+    },
+    {
+        "unicode": "&#xf443;",
+        "label": "ios-heart",
+        "var": "ios-heart"
+    },
+    {
+        "unicode": "&#xf442;",
+        "label": "ios-heart-outline",
+        "var": "ios-heart-outline"
+    },
+    {
+        "unicode": "&#xf446;",
+        "label": "ios-help",
+        "var": "ios-help"
+    },
+    {
+        "unicode": "&#xf444;",
+        "label": "ios-help-empty",
+        "var": "ios-help-empty"
+    },
+    {
+        "unicode": "&#xf445;",
+        "label": "ios-help-outline",
+        "var": "ios-help-outline"
+    },
+    {
+        "unicode": "&#xf448;",
+        "label": "ios-home",
+        "var": "ios-home"
+    },
+    {
+        "unicode": "&#xf447;",
+        "label": "ios-home-outline",
+        "var": "ios-home-outline"
+    },
+    {
+        "unicode": "&#xf44a;",
+        "label": "ios-infinite",
+        "var": "ios-infinite"
+    },
+    {
+        "unicode": "&#xf449;",
+        "label": "ios-infinite-outline",
+        "var": "ios-infinite-outline"
+    },
+    {
+        "unicode": "&#xf44d;",
+        "label": "ios-information",
+        "var": "ios-information"
+    },
+    {
+        "unicode": "&#xf44b;",
+        "label": "ios-information-empty",
+        "var": "ios-information-empty"
+    },
+    {
+        "unicode": "&#xf44c;",
+        "label": "ios-information-outline",
+        "var": "ios-information-outline"
+    },
+    {
+        "unicode": "&#xf44e;",
+        "label": "ios-ionic-outline",
+        "var": "ios-ionic-outline"
+    },
+    {
+        "unicode": "&#xf450;",
+        "label": "ios-keypad",
+        "var": "ios-keypad"
+    },
+    {
+        "unicode": "&#xf44f;",
+        "label": "ios-keypad-outline",
+        "var": "ios-keypad-outline"
+    },
+    {
+        "unicode": "&#xf452;",
+        "label": "ios-lightbulb",
+        "var": "ios-lightbulb"
+    },
+    {
+        "unicode": "&#xf451;",
+        "label": "ios-lightbulb-outline",
+        "var": "ios-lightbulb-outline"
+    },
+    {
+        "unicode": "&#xf454;",
+        "label": "ios-list",
+        "var": "ios-list"
+    },
+    {
+        "unicode": "&#xf453;",
+        "label": "ios-list-outline",
+        "var": "ios-list-outline"
+    },
+    {
+        "unicode": "&#xf456;",
+        "label": "ios-location",
+        "var": "ios-location"
+    },
+    {
+        "unicode": "&#xf455;",
+        "label": "ios-location-outline",
+        "var": "ios-location-outline"
+    },
+    {
+        "unicode": "&#xf458;",
+        "label": "ios-locked",
+        "var": "ios-locked"
+    },
+    {
+        "unicode": "&#xf457;",
+        "label": "ios-locked-outline",
+        "var": "ios-locked-outline"
+    },
+    {
+        "unicode": "&#xf45a;",
+        "label": "ios-loop",
+        "var": "ios-loop"
+    },
+    {
+        "unicode": "&#xf459;",
+        "label": "ios-loop-strong",
+        "var": "ios-loop-strong"
+    },
+    {
+        "unicode": "&#xf45c;",
+        "label": "ios-medical",
+        "var": "ios-medical"
+    },
+    {
+        "unicode": "&#xf45b;",
+        "label": "ios-medical-outline",
+        "var": "ios-medical-outline"
+    },
+    {
+        "unicode": "&#xf45e;",
+        "label": "ios-medkit",
+        "var": "ios-medkit"
+    },
+    {
+        "unicode": "&#xf45d;",
+        "label": "ios-medkit-outline",
+        "var": "ios-medkit-outline"
+    },
+    {
+        "unicode": "&#xf461;",
+        "label": "ios-mic",
+        "var": "ios-mic"
+    },
+    {
+        "unicode": "&#xf45f;",
+        "label": "ios-mic-off",
+        "var": "ios-mic-off"
+    },
+    {
+        "unicode": "&#xf460;",
+        "label": "ios-mic-outline",
+        "var": "ios-mic-outline"
+    },
+    {
+        "unicode": "&#xf464;",
+        "label": "ios-minus",
+        "var": "ios-minus"
+    },
+    {
+        "unicode": "&#xf462;",
+        "label": "ios-minus-empty",
+        "var": "ios-minus-empty"
+    },
+    {
+        "unicode": "&#xf463;",
+        "label": "ios-minus-outline",
+        "var": "ios-minus-outline"
+    },
+    {
+        "unicode": "&#xf466;",
+        "label": "ios-monitor",
+        "var": "ios-monitor"
+    },
+    {
+        "unicode": "&#xf465;",
+        "label": "ios-monitor-outline",
+        "var": "ios-monitor-outline"
+    },
+    {
+        "unicode": "&#xf468;",
+        "label": "ios-moon",
+        "var": "ios-moon"
+    },
+    {
+        "unicode": "&#xf467;",
+        "label": "ios-moon-outline",
+        "var": "ios-moon-outline"
+    },
+    {
+        "unicode": "&#xf46a;",
+        "label": "ios-more",
+        "var": "ios-more"
+    },
+    {
+        "unicode": "&#xf469;",
+        "label": "ios-more-outline",
+        "var": "ios-more-outline"
+    },
+    {
+        "unicode": "&#xf46b;",
+        "label": "ios-musical-note",
+        "var": "ios-musical-note"
+    },
+    {
+        "unicode": "&#xf46c;",
+        "label": "ios-musical-notes",
+        "var": "ios-musical-notes"
+    },
+    {
+        "unicode": "&#xf46e;",
+        "label": "ios-navigate",
+        "var": "ios-navigate"
+    },
+    {
+        "unicode": "&#xf46d;",
+        "label": "ios-navigate-outline",
+        "var": "ios-navigate-outline"
+    },
+    {
+        "unicode": "&#xf470;",
+        "label": "ios-nutrition",
+        "var": "ios-nutrition"
+    },
+    {
+        "unicode": "&#xf46f;",
+        "label": "ios-nutrition-outline",
+        "var": "ios-nutrition-outline"
+    },
+    {
+        "unicode": "&#xf472;",
+        "label": "ios-paper",
+        "var": "ios-paper"
+    },
+    {
+        "unicode": "&#xf471;",
+        "label": "ios-paper-outline",
+        "var": "ios-paper-outline"
+    },
+    {
+        "unicode": "&#xf474;",
+        "label": "ios-paperplane",
+        "var": "ios-paperplane"
+    },
+    {
+        "unicode": "&#xf473;",
+        "label": "ios-paperplane-outline",
+        "var": "ios-paperplane-outline"
+    },
+    {
+        "unicode": "&#xf476;",
+        "label": "ios-partlysunny",
+        "var": "ios-partlysunny"
+    },
+    {
+        "unicode": "&#xf475;",
+        "label": "ios-partlysunny-outline",
+        "var": "ios-partlysunny-outline"
+    },
+    {
+        "unicode": "&#xf478;",
+        "label": "ios-pause",
+        "var": "ios-pause"
+    },
+    {
+        "unicode": "&#xf477;",
+        "label": "ios-pause-outline",
+        "var": "ios-pause-outline"
+    },
+    {
+        "unicode": "&#xf47a;",
+        "label": "ios-paw",
+        "var": "ios-paw"
+    },
+    {
+        "unicode": "&#xf479;",
+        "label": "ios-paw-outline",
+        "var": "ios-paw-outline"
+    },
+    {
+        "unicode": "&#xf47c;",
+        "label": "ios-people",
+        "var": "ios-people"
+    },
+    {
+        "unicode": "&#xf47b;",
+        "label": "ios-people-outline",
+        "var": "ios-people-outline"
+    },
+    {
+        "unicode": "&#xf47e;",
+        "label": "ios-person",
+        "var": "ios-person"
+    },
+    {
+        "unicode": "&#xf47d;",
+        "label": "ios-person-outline",
+        "var": "ios-person-outline"
+    },
+    {
+        "unicode": "&#xf480;",
+        "label": "ios-personadd",
+        "var": "ios-personadd"
+    },
+    {
+        "unicode": "&#xf47f;",
+        "label": "ios-personadd-outline",
+        "var": "ios-personadd-outline"
+    },
+    {
+        "unicode": "&#xf482;",
+        "label": "ios-photos",
+        "var": "ios-photos"
+    },
+    {
+        "unicode": "&#xf481;",
+        "label": "ios-photos-outline",
+        "var": "ios-photos-outline"
+    },
+    {
+        "unicode": "&#xf484;",
+        "label": "ios-pie",
+        "var": "ios-pie"
+    },
+    {
+        "unicode": "&#xf483;",
+        "label": "ios-pie-outline",
+        "var": "ios-pie-outline"
+    },
+    {
+        "unicode": "&#xf486;",
+        "label": "ios-pint",
+        "var": "ios-pint"
+    },
+    {
+        "unicode": "&#xf485;",
+        "label": "ios-pint-outline",
+        "var": "ios-pint-outline"
+    },
+    {
+        "unicode": "&#xf488;",
+        "label": "ios-play",
+        "var": "ios-play"
+    },
+    {
+        "unicode": "&#xf487;",
+        "label": "ios-play-outline",
+        "var": "ios-play-outline"
+    },
+    {
+        "unicode": "&#xf48b;",
+        "label": "ios-plus",
+        "var": "ios-plus"
+    },
+    {
+        "unicode": "&#xf489;",
+        "label": "ios-plus-empty",
+        "var": "ios-plus-empty"
+    },
+    {
+        "unicode": "&#xf48a;",
+        "label": "ios-plus-outline",
+        "var": "ios-plus-outline"
+    },
+    {
+        "unicode": "&#xf48d;",
+        "label": "ios-pricetag",
+        "var": "ios-pricetag"
+    },
+    {
+        "unicode": "&#xf48c;",
+        "label": "ios-pricetag-outline",
+        "var": "ios-pricetag-outline"
+    },
+    {
+        "unicode": "&#xf48f;",
+        "label": "ios-pricetags",
+        "var": "ios-pricetags"
+    },
+    {
+        "unicode": "&#xf48e;",
+        "label": "ios-pricetags-outline",
+        "var": "ios-pricetags-outline"
+    },
+    {
+        "unicode": "&#xf491;",
+        "label": "ios-printer",
+        "var": "ios-printer"
+    },
+    {
+        "unicode": "&#xf490;",
+        "label": "ios-printer-outline",
+        "var": "ios-printer-outline"
+    },
+    {
+        "unicode": "&#xf493;",
+        "label": "ios-pulse",
+        "var": "ios-pulse"
+    },
+    {
+        "unicode": "&#xf492;",
+        "label": "ios-pulse-strong",
+        "var": "ios-pulse-strong"
+    },
+    {
+        "unicode": "&#xf495;",
+        "label": "ios-rainy",
+        "var": "ios-rainy"
+    },
+    {
+        "unicode": "&#xf494;",
+        "label": "ios-rainy-outline",
+        "var": "ios-rainy-outline"
+    },
+    {
+        "unicode": "&#xf497;",
+        "label": "ios-recording",
+        "var": "ios-recording"
+    },
+    {
+        "unicode": "&#xf496;",
+        "label": "ios-recording-outline",
+        "var": "ios-recording-outline"
+    },
+    {
+        "unicode": "&#xf499;",
+        "label": "ios-redo",
+        "var": "ios-redo"
+    },
+    {
+        "unicode": "&#xf498;",
+        "label": "ios-redo-outline",
+        "var": "ios-redo-outline"
+    },
+    {
+        "unicode": "&#xf49c;",
+        "label": "ios-refresh",
+        "var": "ios-refresh"
+    },
+    {
+        "unicode": "&#xf49a;",
+        "label": "ios-refresh-empty",
+        "var": "ios-refresh-empty"
+    },
+    {
+        "unicode": "&#xf49b;",
+        "label": "ios-refresh-outline",
+        "var": "ios-refresh-outline"
+    },
+    {
+        "unicode": "&#xf49d;",
+        "label": "ios-reload",
+        "var": "ios-reload"
+    },
+    {
+        "unicode": "&#xf49f;",
+        "label": "ios-reverse-camera",
+        "var": "ios-reverse-camera"
+    },
+    {
+        "unicode": "&#xf49e;",
+        "label": "ios-reverse-camera-outline",
+        "var": "ios-reverse-camera-outline"
+    },
+    {
+        "unicode": "&#xf4a1;",
+        "label": "ios-rewind",
+        "var": "ios-rewind"
+    },
+    {
+        "unicode": "&#xf4a0;",
+        "label": "ios-rewind-outline",
+        "var": "ios-rewind-outline"
+    },
+    {
+        "unicode": "&#xf4a3;",
+        "label": "ios-rose",
+        "var": "ios-rose"
+    },
+    {
+        "unicode": "&#xf4a2;",
+        "label": "ios-rose-outline",
+        "var": "ios-rose-outline"
+    },
+    {
+        "unicode": "&#xf4a5;",
+        "label": "ios-search",
+        "var": "ios-search"
+    },
+    {
+        "unicode": "&#xf4a4;",
+        "label": "ios-search-strong",
+        "var": "ios-search-strong"
+    },
+    {
+        "unicode": "&#xf4a7;",
+        "label": "ios-settings",
+        "var": "ios-settings"
+    },
+    {
+        "unicode": "&#xf4a6;",
+        "label": "ios-settings-strong",
+        "var": "ios-settings-strong"
+    },
+    {
+        "unicode": "&#xf4a9;",
+        "label": "ios-shuffle",
+        "var": "ios-shuffle"
+    },
+    {
+        "unicode": "&#xf4a8;",
+        "label": "ios-shuffle-strong",
+        "var": "ios-shuffle-strong"
+    },
+    {
+        "unicode": "&#xf4ab;",
+        "label": "ios-skipbackward",
+        "var": "ios-skipbackward"
+    },
+    {
+        "unicode": "&#xf4aa;",
+        "label": "ios-skipbackward-outline",
+        "var": "ios-skipbackward-outline"
+    },
+    {
+        "unicode": "&#xf4ad;",
+        "label": "ios-skipforward",
+        "var": "ios-skipforward"
+    },
+    {
+        "unicode": "&#xf4ac;",
+        "label": "ios-skipforward-outline",
+        "var": "ios-skipforward-outline"
+    },
+    {
+        "unicode": "&#xf4ae;",
+        "label": "ios-snowy",
+        "var": "ios-snowy"
+    },
+    {
+        "unicode": "&#xf4b0;",
+        "label": "ios-speedometer",
+        "var": "ios-speedometer"
+    },
+    {
+        "unicode": "&#xf4af;",
+        "label": "ios-speedometer-outline",
+        "var": "ios-speedometer-outline"
+    },
+    {
+        "unicode": "&#xf4b3;",
+        "label": "ios-star",
+        "var": "ios-star"
+    },
+    {
+        "unicode": "&#xf4b1;",
+        "label": "ios-star-half",
+        "var": "ios-star-half"
+    },
+    {
+        "unicode": "&#xf4b2;",
+        "label": "ios-star-outline",
+        "var": "ios-star-outline"
+    },
+    {
+        "unicode": "&#xf4b5;",
+        "label": "ios-stopwatch",
+        "var": "ios-stopwatch"
+    },
+    {
+        "unicode": "&#xf4b4;",
+        "label": "ios-stopwatch-outline",
+        "var": "ios-stopwatch-outline"
+    },
+    {
+        "unicode": "&#xf4b7;",
+        "label": "ios-sunny",
+        "var": "ios-sunny"
+    },
+    {
+        "unicode": "&#xf4b6;",
+        "label": "ios-sunny-outline",
+        "var": "ios-sunny-outline"
+    },
+    {
+        "unicode": "&#xf4b9;",
+        "label": "ios-telephone",
+        "var": "ios-telephone"
+    },
+    {
+        "unicode": "&#xf4b8;",
+        "label": "ios-telephone-outline",
+        "var": "ios-telephone-outline"
+    },
+    {
+        "unicode": "&#xf4bb;",
+        "label": "ios-tennisball",
+        "var": "ios-tennisball"
+    },
+    {
+        "unicode": "&#xf4ba;",
+        "label": "ios-tennisball-outline",
+        "var": "ios-tennisball-outline"
+    },
+    {
+        "unicode": "&#xf4bd;",
+        "label": "ios-thunderstorm",
+        "var": "ios-thunderstorm"
+    },
+    {
+        "unicode": "&#xf4bc;",
+        "label": "ios-thunderstorm-outline",
+        "var": "ios-thunderstorm-outline"
+    },
+    {
+        "unicode": "&#xf4bf;",
+        "label": "ios-time",
+        "var": "ios-time"
+    },
+    {
+        "unicode": "&#xf4be;",
+        "label": "ios-time-outline",
+        "var": "ios-time-outline"
+    },
+    {
+        "unicode": "&#xf4c1;",
+        "label": "ios-timer",
+        "var": "ios-timer"
+    },
+    {
+        "unicode": "&#xf4c0;",
+        "label": "ios-timer-outline",
+        "var": "ios-timer-outline"
+    },
+    {
+        "unicode": "&#xf4c3;",
+        "label": "ios-toggle",
+        "var": "ios-toggle"
+    },
+    {
+        "unicode": "&#xf4c2;",
+        "label": "ios-toggle-outline",
+        "var": "ios-toggle-outline"
+    },
+    {
+        "unicode": "&#xf4c5;",
+        "label": "ios-trash",
+        "var": "ios-trash"
+    },
+    {
+        "unicode": "&#xf4c4;",
+        "label": "ios-trash-outline",
+        "var": "ios-trash-outline"
+    },
+    {
+        "unicode": "&#xf4c7;",
+        "label": "ios-undo",
+        "var": "ios-undo"
+    },
+    {
+        "unicode": "&#xf4c6;",
+        "label": "ios-undo-outline",
+        "var": "ios-undo-outline"
+    },
+    {
+        "unicode": "&#xf4c9;",
+        "label": "ios-unlocked",
+        "var": "ios-unlocked"
+    },
+    {
+        "unicode": "&#xf4c8;",
+        "label": "ios-unlocked-outline",
+        "var": "ios-unlocked-outline"
+    },
+    {
+        "unicode": "&#xf4cb;",
+        "label": "ios-upload",
+        "var": "ios-upload"
+    },
+    {
+        "unicode": "&#xf4ca;",
+        "label": "ios-upload-outline",
+        "var": "ios-upload-outline"
+    },
+    {
+        "unicode": "&#xf4cd;",
+        "label": "ios-videocam",
+        "var": "ios-videocam"
+    },
+    {
+        "unicode": "&#xf4cc;",
+        "label": "ios-videocam-outline",
+        "var": "ios-videocam-outline"
+    },
+    {
+        "unicode": "&#xf4ce;",
+        "label": "ios-volume-high",
+        "var": "ios-volume-high"
+    },
+    {
+        "unicode": "&#xf4cf;",
+        "label": "ios-volume-low",
+        "var": "ios-volume-low"
+    },
+    {
+        "unicode": "&#xf4d1;",
+        "label": "ios-wineglass",
+        "var": "ios-wineglass"
+    },
+    {
+        "unicode": "&#xf4d0;",
+        "label": "ios-wineglass-outline",
+        "var": "ios-wineglass-outline"
+    },
+    {
+        "unicode": "&#xf4d3;",
+        "label": "ios-world",
+        "var": "ios-world"
+    },
+    {
+        "unicode": "&#xf4d2;",
+        "label": "ios-world-outline",
+        "var": "ios-world-outline"
+    },
+    {
+        "unicode": "&#xf1f9;",
+        "label": "ipad",
+        "var": "ipad"
+    },
+    {
+        "unicode": "&#xf1fa;",
+        "label": "iphone",
+        "var": "iphone"
+    },
+    {
+        "unicode": "&#xf1fb;",
+        "label": "ipod",
+        "var": "ipod"
+    },
+    {
+        "unicode": "&#xf295;",
+        "label": "jet",
+        "var": "jet"
+    },
+    {
+        "unicode": "&#xf296;",
+        "label": "key",
+        "var": "key"
+    },
+    {
+        "unicode": "&#xf297;",
+        "label": "knife",
+        "var": "knife"
+    },
+    {
+        "unicode": "&#xf1fc;",
+        "label": "laptop",
+        "var": "laptop"
+    },
+    {
+        "unicode": "&#xf1fd;",
+        "label": "leaf",
+        "var": "leaf"
+    },
+    {
+        "unicode": "&#xf298;",
+        "label": "levels",
+        "var": "levels"
+    },
+    {
+        "unicode": "&#xf299;",
+        "label": "lightbulb",
+        "var": "lightbulb"
+    },
+    {
+        "unicode": "&#xf1fe;",
+        "label": "link",
+        "var": "link"
+    },
+    {
+        "unicode": "&#xf29a;",
+        "label": "load-a",
+        "var": "load-a"
+    },
+    {
+        "unicode": "&#xf29b;",
+        "label": "load-b",
+        "var": "load-b"
+    },
+    {
+        "unicode": "&#xf29c;",
+        "label": "load-c",
+        "var": "load-c"
+    },
+    {
+        "unicode": "&#xf29d;",
+        "label": "load-d",
+        "var": "load-d"
+    },
+    {
+        "unicode": "&#xf1ff;",
+        "label": "location",
+        "var": "location"
+    },
+    {
+        "unicode": "&#xf4d4;",
+        "label": "lock-combination",
+        "var": "lock-combination"
+    },
+    {
+        "unicode": "&#xf200;",
+        "label": "locked",
+        "var": "locked"
+    },
+    {
+        "unicode": "&#xf29e;",
+        "label": "log-in",
+        "var": "log-in"
+    },
+    {
+        "unicode": "&#xf29f;",
+        "label": "log-out",
+        "var": "log-out"
+    },
+    {
+        "unicode": "&#xf201;",
+        "label": "loop",
+        "var": "loop"
+    },
+    {
+        "unicode": "&#xf2a0;",
+        "label": "magnet",
+        "var": "magnet"
+    },
+    {
+        "unicode": "&#xf2a1;",
+        "label": "male",
+        "var": "male"
+    },
+    {
+        "unicode": "&#xf202;",
+        "label": "man",
+        "var": "man"
+    },
+    {
+        "unicode": "&#xf203;",
+        "label": "map",
+        "var": "map"
+    },
+    {
+        "unicode": "&#xf2a2;",
+        "label": "medkit",
+        "var": "medkit"
+    },
+    {
+        "unicode": "&#xf33f;",
+        "label": "merge",
+        "var": "merge"
+    },
+    {
+        "unicode": "&#xf204;",
+        "label": "mic-a",
+        "var": "mic-a"
+    },
+    {
+        "unicode": "&#xf205;",
+        "label": "mic-b",
+        "var": "mic-b"
+    },
+    {
+        "unicode": "&#xf206;",
+        "label": "mic-c",
+        "var": "mic-c"
+    },
+    {
+        "unicode": "&#xf209;",
+        "label": "minus",
+        "var": "minus"
+    },
+    {
+        "unicode": "&#xf207;",
+        "label": "minus-circled",
+        "var": "minus-circled"
+    },
+    {
+        "unicode": "&#xf208;",
+        "label": "minus-round",
+        "var": "minus-round"
+    },
+    {
+        "unicode": "&#xf2c1;",
+        "label": "model-s",
+        "var": "model-s"
+    },
+    {
+        "unicode": "&#xf20a;",
+        "label": "monitor",
+        "var": "monitor"
+    },
+    {
+        "unicode": "&#xf20b;",
+        "label": "more",
+        "var": "more"
+    },
+    {
+        "unicode": "&#xf340;",
+        "label": "mouse",
+        "var": "mouse"
+    },
+    {
+        "unicode": "&#xf20c;",
+        "label": "music-note",
+        "var": "music-note"
+    },
+    {
+        "unicode": "&#xf20e;",
+        "label": "navicon",
+        "var": "navicon"
+    },
+    {
+        "unicode": "&#xf20d;",
+        "label": "navicon-round",
+        "var": "navicon-round"
+    },
+    {
+        "unicode": "&#xf2a3;",
+        "label": "navigate",
+        "var": "navigate"
+    },
+    {
+        "unicode": "&#xf341;",
+        "label": "network",
+        "var": "network"
+    },
+    {
+        "unicode": "&#xf2c2;",
+        "label": "no-smoking",
+        "var": "no-smoking"
+    },
+    {
+        "unicode": "&#xf2a4;",
+        "label": "nuclear",
+        "var": "nuclear"
+    },
+    {
+        "unicode": "&#xf342;",
+        "label": "outlet",
+        "var": "outlet"
+    },
+    {
+        "unicode": "&#xf4d5;",
+        "label": "paintbrush",
+        "var": "paintbrush"
+    },
+    {
+        "unicode": "&#xf4d6;",
+        "label": "paintbucket",
+        "var": "paintbucket"
+    },
+    {
+        "unicode": "&#xf2c3;",
+        "label": "paper-airplane",
+        "var": "paper-airplane"
+    },
+    {
+        "unicode": "&#xf20f;",
+        "label": "paperclip",
+        "var": "paperclip"
+    },
+    {
+        "unicode": "&#xf210;",
+        "label": "pause",
+        "var": "pause"
+    },
+    {
+        "unicode": "&#xf213;",
+        "label": "person",
+        "var": "person"
+    },
+    {
+        "unicode": "&#xf211;",
+        "label": "person-add",
+        "var": "person-add"
+    },
+    {
+        "unicode": "&#xf212;",
+        "label": "person-stalker",
+        "var": "person-stalker"
+    },
+    {
+        "unicode": "&#xf2a5;",
+        "label": "pie-graph",
+        "var": "pie-graph"
+    },
+    {
+        "unicode": "&#xf2a6;",
+        "label": "pin",
+        "var": "pin"
+    },
+    {
+        "unicode": "&#xf2a7;",
+        "label": "pinpoint",
+        "var": "pinpoint"
+    },
+    {
+        "unicode": "&#xf2a8;",
+        "label": "pizza",
+        "var": "pizza"
+    },
+    {
+        "unicode": "&#xf214;",
+        "label": "plane",
+        "var": "plane"
+    },
+    {
+        "unicode": "&#xf343;",
+        "label": "planet",
+        "var": "planet"
+    },
+    {
+        "unicode": "&#xf215;",
+        "label": "play",
+        "var": "play"
+    },
+    {
+        "unicode": "&#xf30a;",
+        "label": "playstation",
+        "var": "playstation"
+    },
+    {
+        "unicode": "&#xf218;",
+        "label": "plus",
+        "var": "plus"
+    },
+    {
+        "unicode": "&#xf216;",
+        "label": "plus-circled",
+        "var": "plus-circled"
+    },
+    {
+        "unicode": "&#xf217;",
+        "label": "plus-round",
+        "var": "plus-round"
+    },
+    {
+        "unicode": "&#xf344;",
+        "label": "podium",
+        "var": "podium"
+    },
+    {
+        "unicode": "&#xf219;",
+        "label": "pound",
+        "var": "pound"
+    },
+    {
+        "unicode": "&#xf2a9;",
+        "label": "power",
+        "var": "power"
+    },
+    {
+        "unicode": "&#xf2aa;",
+        "label": "pricetag",
+        "var": "pricetag"
+    },
+    {
+        "unicode": "&#xf2ab;",
+        "label": "pricetags",
+        "var": "pricetags"
+    },
+    {
+        "unicode": "&#xf21a;",
+        "label": "printer",
+        "var": "printer"
+    },
+    {
+        "unicode": "&#xf345;",
+        "label": "pull-request",
+        "var": "pull-request"
+    },
+    {
+        "unicode": "&#xf346;",
+        "label": "qr-scanner",
+        "var": "qr-scanner"
+    },
+    {
+        "unicode": "&#xf347;",
+        "label": "quote",
+        "var": "quote"
+    },
+    {
+        "unicode": "&#xf2ac;",
+        "label": "radio-waves",
+        "var": "radio-waves"
+    },
+    {
+        "unicode": "&#xf21b;",
+        "label": "record",
+        "var": "record"
+    },
+    {
+        "unicode": "&#xf21c;",
+        "label": "refresh",
+        "var": "refresh"
+    },
+    {
+        "unicode": "&#xf21e;",
+        "label": "reply",
+        "var": "reply"
+    },
+    {
+        "unicode": "&#xf21d;",
+        "label": "reply-all",
+        "var": "reply-all"
+    },
+    {
+        "unicode": "&#xf348;",
+        "label": "ribbon-a",
+        "var": "ribbon-a"
+    },
+    {
+        "unicode": "&#xf349;",
+        "label": "ribbon-b",
+        "var": "ribbon-b"
+    },
+    {
+        "unicode": "&#xf34a;",
+        "label": "sad",
+        "var": "sad"
+    },
+    {
+        "unicode": "&#xf4d7;",
+        "label": "sad-outline",
+        "var": "sad-outline"
+    },
+    {
+        "unicode": "&#xf34b;",
+        "label": "scissors",
+        "var": "scissors"
+    },
+    {
+        "unicode": "&#xf21f;",
+        "label": "search",
+        "var": "search"
+    },
+    {
+        "unicode": "&#xf2ad;",
+        "label": "settings",
+        "var": "settings"
+    },
+    {
+        "unicode": "&#xf220;",
+        "label": "share",
+        "var": "share"
+    },
+    {
+        "unicode": "&#xf221;",
+        "label": "shuffle",
+        "var": "shuffle"
+    },
+    {
+        "unicode": "&#xf222;",
+        "label": "skip-backward",
+        "var": "skip-backward"
+    },
+    {
+        "unicode": "&#xf223;",
+        "label": "skip-forward",
+        "var": "skip-forward"
+    },
+    {
+        "unicode": "&#xf225;",
+        "label": "social-android",
+        "var": "social-android"
+    },
+    {
+        "unicode": "&#xf224;",
+        "label": "social-android-outline",
+        "var": "social-android-outline"
+    },
+    {
+        "unicode": "&#xf4d9;",
+        "label": "social-angular",
+        "var": "social-angular"
+    },
+    {
+        "unicode": "&#xf4d8;",
+        "label": "social-angular-outline",
+        "var": "social-angular-outline"
+    },
+    {
+        "unicode": "&#xf227;",
+        "label": "social-apple",
+        "var": "social-apple"
+    },
+    {
+        "unicode": "&#xf226;",
+        "label": "social-apple-outline",
+        "var": "social-apple-outline"
+    },
+    {
+        "unicode": "&#xf2af;",
+        "label": "social-bitcoin",
+        "var": "social-bitcoin"
+    },
+    {
+        "unicode": "&#xf2ae;",
+        "label": "social-bitcoin-outline",
+        "var": "social-bitcoin-outline"
+    },
+    {
+        "unicode": "&#xf229;",
+        "label": "social-buffer",
+        "var": "social-buffer"
+    },
+    {
+        "unicode": "&#xf228;",
+        "label": "social-buffer-outline",
+        "var": "social-buffer-outline"
+    },
+    {
+        "unicode": "&#xf4db;",
+        "label": "social-chrome",
+        "var": "social-chrome"
+    },
+    {
+        "unicode": "&#xf4da;",
+        "label": "social-chrome-outline",
+        "var": "social-chrome-outline"
+    },
+    {
+        "unicode": "&#xf4dd;",
+        "label": "social-codepen",
+        "var": "social-codepen"
+    },
+    {
+        "unicode": "&#xf4dc;",
+        "label": "social-codepen-outline",
+        "var": "social-codepen-outline"
+    },
+    {
+        "unicode": "&#xf4df;",
+        "label": "social-css3",
+        "var": "social-css3"
+    },
+    {
+        "unicode": "&#xf4de;",
+        "label": "social-css3-outline",
+        "var": "social-css3-outline"
+    },
+    {
+        "unicode": "&#xf22b;",
+        "label": "social-designernews",
+        "var": "social-designernews"
+    },
+    {
+        "unicode": "&#xf22a;",
+        "label": "social-designernews-outline",
+        "var": "social-designernews-outline"
+    },
+    {
+        "unicode": "&#xf22d;",
+        "label": "social-dribbble",
+        "var": "social-dribbble"
+    },
+    {
+        "unicode": "&#xf22c;",
+        "label": "social-dribbble-outline",
+        "var": "social-dribbble-outline"
+    },
+    {
+        "unicode": "&#xf22f;",
+        "label": "social-dropbox",
+        "var": "social-dropbox"
+    },
+    {
+        "unicode": "&#xf22e;",
+        "label": "social-dropbox-outline",
+        "var": "social-dropbox-outline"
+    },
+    {
+        "unicode": "&#xf4e1;",
+        "label": "social-euro",
+        "var": "social-euro"
+    },
+    {
+        "unicode": "&#xf4e0;",
+        "label": "social-euro-outline",
+        "var": "social-euro-outline"
+    },
+    {
+        "unicode": "&#xf231;",
+        "label": "social-facebook",
+        "var": "social-facebook"
+    },
+    {
+        "unicode": "&#xf230;",
+        "label": "social-facebook-outline",
+        "var": "social-facebook-outline"
+    },
+    {
+        "unicode": "&#xf34d;",
+        "label": "social-foursquare",
+        "var": "social-foursquare"
+    },
+    {
+        "unicode": "&#xf34c;",
+        "label": "social-foursquare-outline",
+        "var": "social-foursquare-outline"
+    },
+    {
+        "unicode": "&#xf2c4;",
+        "label": "social-freebsd-devil",
+        "var": "social-freebsd-devil"
+    },
+    {
+        "unicode": "&#xf233;",
+        "label": "social-github",
+        "var": "social-github"
+    },
+    {
+        "unicode": "&#xf232;",
+        "label": "social-github-outline",
+        "var": "social-github-outline"
+    },
+    {
+        "unicode": "&#xf34f;",
+        "label": "social-google",
+        "var": "social-google"
+    },
+    {
+        "unicode": "&#xf34e;",
+        "label": "social-google-outline",
+        "var": "social-google-outline"
+    },
+    {
+        "unicode": "&#xf235;",
+        "label": "social-googleplus",
+        "var": "social-googleplus"
+    },
+    {
+        "unicode": "&#xf234;",
+        "label": "social-googleplus-outline",
+        "var": "social-googleplus-outline"
+    },
+    {
+        "unicode": "&#xf237;",
+        "label": "social-hackernews",
+        "var": "social-hackernews"
+    },
+    {
+        "unicode": "&#xf236;",
+        "label": "social-hackernews-outline",
+        "var": "social-hackernews-outline"
+    },
+    {
+        "unicode": "&#xf4e3;",
+        "label": "social-html5",
+        "var": "social-html5"
+    },
+    {
+        "unicode": "&#xf4e2;",
+        "label": "social-html5-outline",
+        "var": "social-html5-outline"
+    },
+    {
+        "unicode": "&#xf351;",
+        "label": "social-instagram",
+        "var": "social-instagram"
+    },
+    {
+        "unicode": "&#xf350;",
+        "label": "social-instagram-outline",
+        "var": "social-instagram-outline"
+    },
+    {
+        "unicode": "&#xf4e5;",
+        "label": "social-javascript",
+        "var": "social-javascript"
+    },
+    {
+        "unicode": "&#xf4e4;",
+        "label": "social-javascript-outline",
+        "var": "social-javascript-outline"
+    },
+    {
+        "unicode": "&#xf239;",
+        "label": "social-linkedin",
+        "var": "social-linkedin"
+    },
+    {
+        "unicode": "&#xf238;",
+        "label": "social-linkedin-outline",
+        "var": "social-linkedin-outline"
+    },
+    {
+        "unicode": "&#xf4e6;",
+        "label": "social-markdown",
+        "var": "social-markdown"
+    },
+    {
+        "unicode": "&#xf4e7;",
+        "label": "social-nodejs",
+        "var": "social-nodejs"
+    },
+    {
+        "unicode": "&#xf4e8;",
+        "label": "social-octocat",
+        "var": "social-octocat"
+    },
+    {
+        "unicode": "&#xf2b1;",
+        "label": "social-pinterest",
+        "var": "social-pinterest"
+    },
+    {
+        "unicode": "&#xf2b0;",
+        "label": "social-pinterest-outline",
+        "var": "social-pinterest-outline"
+    },
+    {
+        "unicode": "&#xf4e9;",
+        "label": "social-python",
+        "var": "social-python"
+    },
+    {
+        "unicode": "&#xf23b;",
+        "label": "social-reddit",
+        "var": "social-reddit"
+    },
+    {
+        "unicode": "&#xf23a;",
+        "label": "social-reddit-outline",
+        "var": "social-reddit-outline"
+    },
+    {
+        "unicode": "&#xf23d;",
+        "label": "social-rss",
+        "var": "social-rss"
+    },
+    {
+        "unicode": "&#xf23c;",
+        "label": "social-rss-outline",
+        "var": "social-rss-outline"
+    },
+    {
+        "unicode": "&#xf4ea;",
+        "label": "social-sass",
+        "var": "social-sass"
+    },
+    {
+        "unicode": "&#xf23f;",
+        "label": "social-skype",
+        "var": "social-skype"
+    },
+    {
+        "unicode": "&#xf23e;",
+        "label": "social-skype-outline",
+        "var": "social-skype-outline"
+    },
+    {
+        "unicode": "&#xf4ec;",
+        "label": "social-snapchat",
+        "var": "social-snapchat"
+    },
+    {
+        "unicode": "&#xf4eb;",
+        "label": "social-snapchat-outline",
+        "var": "social-snapchat-outline"
+    },
+    {
+        "unicode": "&#xf241;",
+        "label": "social-tumblr",
+        "var": "social-tumblr"
+    },
+    {
+        "unicode": "&#xf240;",
+        "label": "social-tumblr-outline",
+        "var": "social-tumblr-outline"
+    },
+    {
+        "unicode": "&#xf2c5;",
+        "label": "social-tux",
+        "var": "social-tux"
+    },
+    {
+        "unicode": "&#xf4ee;",
+        "label": "social-twitch",
+        "var": "social-twitch"
+    },
+    {
+        "unicode": "&#xf4ed;",
+        "label": "social-twitch-outline",
+        "var": "social-twitch-outline"
+    },
+    {
+        "unicode": "&#xf243;",
+        "label": "social-twitter",
+        "var": "social-twitter"
+    },
+    {
+        "unicode": "&#xf242;",
+        "label": "social-twitter-outline",
+        "var": "social-twitter-outline"
+    },
+    {
+        "unicode": "&#xf353;",
+        "label": "social-usd",
+        "var": "social-usd"
+    },
+    {
+        "unicode": "&#xf352;",
+        "label": "social-usd-outline",
+        "var": "social-usd-outline"
+    },
+    {
+        "unicode": "&#xf245;",
+        "label": "social-vimeo",
+        "var": "social-vimeo"
+    },
+    {
+        "unicode": "&#xf244;",
+        "label": "social-vimeo-outline",
+        "var": "social-vimeo-outline"
+    },
+    {
+        "unicode": "&#xf4f0;",
+        "label": "social-whatsapp",
+        "var": "social-whatsapp"
+    },
+    {
+        "unicode": "&#xf4ef;",
+        "label": "social-whatsapp-outline",
+        "var": "social-whatsapp-outline"
+    },
+    {
+        "unicode": "&#xf247;",
+        "label": "social-windows",
+        "var": "social-windows"
+    },
+    {
+        "unicode": "&#xf246;",
+        "label": "social-windows-outline",
+        "var": "social-windows-outline"
+    },
+    {
+        "unicode": "&#xf249;",
+        "label": "social-wordpress",
+        "var": "social-wordpress"
+    },
+    {
+        "unicode": "&#xf248;",
+        "label": "social-wordpress-outline",
+        "var": "social-wordpress-outline"
+    },
+    {
+        "unicode": "&#xf24b;",
+        "label": "social-yahoo",
+        "var": "social-yahoo"
+    },
+    {
+        "unicode": "&#xf24a;",
+        "label": "social-yahoo-outline",
+        "var": "social-yahoo-outline"
+    },
+    {
+        "unicode": "&#xf4f2;",
+        "label": "social-yen",
+        "var": "social-yen"
+    },
+    {
+        "unicode": "&#xf4f1;",
+        "label": "social-yen-outline",
+        "var": "social-yen-outline"
+    },
+    {
+        "unicode": "&#xf24d;",
+        "label": "social-youtube",
+        "var": "social-youtube"
+    },
+    {
+        "unicode": "&#xf24c;",
+        "label": "social-youtube-outline",
+        "var": "social-youtube-outline"
+    },
+    {
+        "unicode": "&#xf4f4;",
+        "label": "soup-can",
+        "var": "soup-can"
+    },
+    {
+        "unicode": "&#xf4f3;",
+        "label": "soup-can-outline",
+        "var": "soup-can-outline"
+    },
+    {
+        "unicode": "&#xf2b2;",
+        "label": "speakerphone",
+        "var": "speakerphone"
+    },
+    {
+        "unicode": "&#xf2b3;",
+        "label": "speedometer",
+        "var": "speedometer"
+    },
+    {
+        "unicode": "&#xf2b4;",
+        "label": "spoon",
+        "var": "spoon"
+    },
+    {
+        "unicode": "&#xf24e;",
+        "label": "star",
+        "var": "star"
+    },
+    {
+        "unicode": "&#xf2b5;",
+        "label": "stats-bars",
+        "var": "stats-bars"
+    },
+    {
+        "unicode": "&#xf30b;",
+        "label": "steam",
+        "var": "steam"
+    },
+    {
+        "unicode": "&#xf24f;",
+        "label": "stop",
+        "var": "stop"
+    },
+    {
+        "unicode": "&#xf2b6;",
+        "label": "thermometer",
+        "var": "thermometer"
+    },
+    {
+        "unicode": "&#xf250;",
+        "label": "thumbsdown",
+        "var": "thumbsdown"
+    },
+    {
+        "unicode": "&#xf251;",
+        "label": "thumbsup",
+        "var": "thumbsup"
+    },
+    {
+        "unicode": "&#xf355;",
+        "label": "toggle",
+        "var": "toggle"
+    },
+    {
+        "unicode": "&#xf354;",
+        "label": "toggle-filled",
+        "var": "toggle-filled"
+    },
+    {
+        "unicode": "&#xf4f5;",
+        "label": "transgender",
+        "var": "transgender"
+    },
+    {
+        "unicode": "&#xf252;",
+        "label": "trash-a",
+        "var": "trash-a"
+    },
+    {
+        "unicode": "&#xf253;",
+        "label": "trash-b",
+        "var": "trash-b"
+    },
+    {
+        "unicode": "&#xf356;",
+        "label": "trophy",
+        "var": "trophy"
+    },
+    {
+        "unicode": "&#xf4f7;",
+        "label": "tshirt",
+        "var": "tshirt"
+    },
+    {
+        "unicode": "&#xf4f6;",
+        "label": "tshirt-outline",
+        "var": "tshirt-outline"
+    },
+    {
+        "unicode": "&#xf2b7;",
+        "label": "umbrella",
+        "var": "umbrella"
+    },
+    {
+        "unicode": "&#xf357;",
+        "label": "university",
+        "var": "university"
+    },
+    {
+        "unicode": "&#xf254;",
+        "label": "unlocked",
+        "var": "unlocked"
+    },
+    {
+        "unicode": "&#xf255;",
+        "label": "upload",
+        "var": "upload"
+    },
+    {
+        "unicode": "&#xf2b8;",
+        "label": "usb",
+        "var": "usb"
+    },
+    {
+        "unicode": "&#xf256;",
+        "label": "videocamera",
+        "var": "videocamera"
+    },
+    {
+        "unicode": "&#xf257;",
+        "label": "volume-high",
+        "var": "volume-high"
+    },
+    {
+        "unicode": "&#xf258;",
+        "label": "volume-low",
+        "var": "volume-low"
+    },
+    {
+        "unicode": "&#xf259;",
+        "label": "volume-medium",
+        "var": "volume-medium"
+    },
+    {
+        "unicode": "&#xf25a;",
+        "label": "volume-mute",
+        "var": "volume-mute"
+    },
+    {
+        "unicode": "&#xf358;",
+        "label": "wand",
+        "var": "wand"
+    },
+    {
+        "unicode": "&#xf25b;",
+        "label": "waterdrop",
+        "var": "waterdrop"
+    },
+    {
+        "unicode": "&#xf25c;",
+        "label": "wifi",
+        "var": "wifi"
+    },
+    {
+        "unicode": "&#xf2b9;",
+        "label": "wineglass",
+        "var": "wineglass"
+    },
+    {
+        "unicode": "&#xf25d;",
+        "label": "woman",
+        "var": "woman"
+    },
+    {
+        "unicode": "&#xf2ba;",
+        "label": "wrench",
+        "var": "wrench"
+    },
+    {
+        "unicode": "&#xf30c;",
+        "label": "xbox",
+        "var": "xbox"
+    }
+]

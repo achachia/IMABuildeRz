@@ -1,0 +1,1 @@
+{"name":"Invite Fiends To Install","desc":"Invite friends to install the application via the QR Code","page":true,"author":"Jasman","email":"imabuilder@ihsana.com","company":"Ihsana IT Solution","form":[{"name":"api-url","title":"API Url","placeholder":"","help":"","attributes":"required","option":"","type":"url"}],"service":false,"component":false,"global":false}

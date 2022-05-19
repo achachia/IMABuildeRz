@@ -1,0 +1,7 @@
+{
+    "name":"Ionicons",
+    "author":"Ionic Team",
+    "link":"https://github.com/ionic-team/ionicons",
+    "class":"icon",
+    "prefix":"ion"
+}

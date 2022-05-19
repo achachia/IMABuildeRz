@@ -1,0 +1,10 @@
+{
+    "name": "Shake",
+    "version": "2.0.0",
+    "desc": "Generate code for detect when a physical device performs a shake gesture and do some action, used for surprise discounts or so on",
+    "author": "Ihsana Team",
+    "email": "imabuilder@ihsana.com",
+    "company": "Ihsana IT Solution",
+	"categories":"Utility",
+	"prefix": "shake"
+}

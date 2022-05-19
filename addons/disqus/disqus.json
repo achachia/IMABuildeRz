@@ -1,0 +1,10 @@
+{
+    "name": "Disqus",
+    "version": "2.0.0",
+    "desc": "Insert disqus comment into your app",
+    "author": "Ihsana Team",
+    "email": "imabuilder@ihsana.com",
+    "company": "Ihsana IT Solution",
+	"categories":"User Interaction",
+    "prefix": "disqus"
+}

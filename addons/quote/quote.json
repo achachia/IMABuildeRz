@@ -1,0 +1,11 @@
+{
+    "name": "Quote App",
+    "version": "2.0.1",
+    "desc": "Create Quotes App that can be shared to social media or copy to clipboard or save to favorites",
+    "author": "Ihsana Team",
+    "email": "imabuilder@ihsana.com",
+    "company": "Ihsana IT Solution",
+    "prefix": "quote",
+    "categories": "Full Template",
+    "full-action": true
+}

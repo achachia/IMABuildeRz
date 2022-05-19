@@ -1,0 +1,10 @@
+{
+    "name": "StartApp Ads",
+    "version": "2.0.0",
+    "desc": "Generate code for StartApp Ads, only android is supported",
+    "author": "Ihsana Team",
+    "email": "imabuilder@ihsana.com",
+    "company": "Ihsana IT Solution",
+	"categories":"Advertisement",
+    "prefix": "startapp-ads"
+}

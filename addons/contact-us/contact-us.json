@@ -1,0 +1,10 @@
+{
+    "name": "Contact Us",
+    "version": "2.0.0",
+    "desc": "Create an contact Us form",
+    "author": "Ihsana Team",
+    "email": "imabuilder@ihsana.com",
+    "company": "Ihsana IT Solution",
+	"categories":"User Interaction",
+    "prefix": "contact-us"
+}

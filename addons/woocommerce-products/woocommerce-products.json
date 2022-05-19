@@ -1,0 +1,10 @@
+{
+    "name": "WooCommerce Products",
+    "version": "2.0.0",
+    "desc": "Generate code to list products on WooCommerce",
+    "author": "Ihsana Team",
+    "email": "imabuilder@ihsana.com",
+    "company": "Ihsana IT Solution",
+	"categories":"Page Creator",
+    "prefix": "woocommerce-products"
+}

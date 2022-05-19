@@ -1,0 +1,11 @@
+{
+    "name": "eBook App",
+    "version": "2.0.0",
+    "desc": "These addons are used to create eBooks App and Website BackEnd, such as: Stories App, Holy Book, Recipe Book, Prayer Book or Comics App (Manga, Manhwa or Manhua) and Backend use WordPress Plugin or PHP Native Code",
+    "author": "Ihsana Team",
+    "email": "imabuilder@ihsana.com",
+    "company": "Ihsana IT Solution",
+    "prefix": "ebook",
+	"categories":"Full Template",
+    "full-action": true
+}
